@@ -1,0 +1,1423 @@
+#EXTM3U
+#EXTINF:-1 radio="False" tvg-id="BNT1" group-title="Национални" tvg-logo="http://logos.kodibg.org/bnt1.png",BNT 1 HD
+http://127.0.0.1:59311/tv@h0m3/1
+#EXTINF:-1 radio="False" tvg-id="bTV" group-title="Национални" tvg-logo="http://logos.kodibg.org/btv.png",bTV HD
+http://127.0.0.1:59311/tv@h0m3/2
+#EXTINF:-1 radio="False" tvg-id="Nova" group-title="Национални" tvg-logo="http://logos.kodibg.org/novatv.png",NOVA HD
+http://127.0.0.1:59311/tv@h0m3/3
+#EXTINF:-1 radio="False" tvg-id="78TV" group-title="Политематични" tvg-logo="http://logos.kodibg.org/78tv.png",7/8 TV HD
+http://127.0.0.1:59311/tv@h0m3/8
+#EXTINF:-1 radio="False" tvg-id="TVN" group-title="Политематични" tvg-logo="http://logos.kodibg.org/tvn.png",TVN HD
+http://127.0.0.1:59311/tv@h0m3/332
+#EXTINF:-1 radio="False" tvg-id="BNT2" group-title="Политематични" tvg-logo="http://logos.kodibg.org/bnt2.png",BNT 2 HD
+http://127.0.0.1:59311/tv@h0m3/333
+#EXTINF:-1 radio="False" tvg-id="BNT3" group-title="Политематични" tvg-logo="http://logos.kodibg.org/bnt3.png",BNT 3 HD
+http://127.0.0.1:59311/tv@h0m3/334
+#EXTINF:-1 radio="False" tvg-id="BNT4" group-title="Политематични" tvg-logo="http://logos.kodibg.org/bnt4.png",BNT 4 HD
+http://127.0.0.1:59311/tv@h0m3/32
+#EXTINF:-1 radio="False" tvg-id="tveurope" group-title="Политематични" tvg-logo="https://logos.kodibg.org/tveurope.png",TV Evropa
+http://127.0.0.1:59311/tv@h0m3/9
+#EXTINF:-1 radio="False" tvg-id="BulgariaOnAir" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bulgariaonair.png",Bulgaria On Air
+http://127.0.0.1:59311/tv@h0m3/337
+#EXTINF:-1 radio="False" tvg-id="Kanal3" group-title="Политематични" tvg-logo="http://logos.kodibg.org/kanal3.png",Kanal 3 HD
+http://127.0.0.1:59311/tv@h0m3/335
+#EXTINF:-1 radio="False" tvg-id="Eurocom" group-title="Политематични" tvg-logo="https://logos.kodibg.org/eurocom.png",EK HD
+http://127.0.0.1:59311/tv@h0m3/339
+#EXTINF:-1 radio="False" tvg-id="Bulgaria24" group-title="Политематични" tvg-logo="http://logos.kodibg.org/bulgaria24.png",Bulgaria 24 HD
+http://127.0.0.1:59311/tv@h0m3/336
+#EXTINF:-1 radio="False" tvg-id="bTVAction" group-title="Филми" tvg-logo="http://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/btv-actionhd-newlogo.png",bTV Action HD
+http://127.0.0.1:59311/tv@h0m3/4
+#EXTINF:-1 radio="False" tvg-id="bTVCinema" group-title="Филми" tvg-logo="http://logos.kodibg.org/btvcinema.png",bTV Cinema HD
+http://127.0.0.1:59311/tv@h0m3/5
+#EXTINF:-1 radio="False" tvg-id="bTVComedy" group-title="Филми" tvg-logo="http://logos.kodibg.org/btvcomedy.png",bTV Comedy HD
+http://127.0.0.1:59311/tv@h0m3/6
+#EXTINF:-1 radio="False" tvg-id="bTVLady" group-title="Филми" tvg-logo="http://logos.kodibg.org/btvlady.png",bTV Lady HD
+http://127.0.0.1:59311/tv@h0m3/7
+#EXTINF:-1 radio="False" tvg-id="Diema" group-title="Филми" tvg-logo="http://logos.kodibg.org/diema.png",Diema
+http://127.0.0.1:59311/tv@h0m3/10
+#EXTINF:-1 radio="False" tvg-id="KinoNova" group-title="Филми" tvg-logo="http://logos.kodibg.org/kinonova.png",Kino Nova
+http://127.0.0.1:59311/tv@h0m3/11
+#EXTINF:-1 radio="False" tvg-id="DiemaFamily" group-title="Филми" tvg-logo="http://logos.kodibg.org/diemafamily.png",Diema Family
+http://127.0.0.1:59311/tv@h0m3/12
+#EXTINF:-1 radio="False" tvg-id="FOX" group-title="Филми" tvg-logo="http://logos.kodibg.org/fox.png",FOX HD
+http://127.0.0.1:59311/tv@h0m3/13
+#EXTINF:-1 radio="False" tvg-id="FOXLife" group-title="Филми" tvg-logo="http://logos.kodibg.org/foxlife.png",FOX Life HD
+http://127.0.0.1:59311/tv@h0m3/14
+#EXTINF:-1 radio="False" tvg-id="FOXCrime" group-title="Филми" tvg-logo="http://logos.kodibg.org/foxcrime.png",FOX Crime HD
+http://127.0.0.1:59311/tv@h0m3/15
+#EXTINF:-1 radio="False" tvg-id="ViasatEpicDrama" group-title="Филми" tvg-logo="http://logos.kodibg.org/epicdrama.png",Epic Drama HD
+http://127.0.0.1:59311/tv@h0m3/16
+#EXTINF:-1 radio="False" tvg-id="TDC" group-title="Филми" tvg-logo="http://logos.kodibg.org/tdc.png",Timeless Drama Channel
+http://127.0.0.1:59311/tv@h0m3/17
+#EXTINF:-1 radio="False" tvg-id="HBOHD" group-title="Филми" tvg-logo="https://logos.kodibg.org/hbohd.png",HBO HD
+http://127.0.0.1:59311/tv@h0m3/18
+#EXTINF:-1 radio="False" tvg-id="HBO2" group-title="Филми" tvg-logo="http://logos.kodibg.org/hbo2.png",HBO 2 HD
+http://127.0.0.1:59311/tv@h0m3/19
+#EXTINF:-1 radio="False" tvg-id="HBO3" group-title="Филми" tvg-logo="http://logos.kodibg.org/hbo3.png",HBO 3 HD
+http://127.0.0.1:59311/tv@h0m3/20
+#EXTINF:-1 radio="False" tvg-id="Cinemax" group-title="Филми" tvg-logo="http://logos.kodibg.org/cinemax.png",Cinemax HD
+http://127.0.0.1:59311/tv@h0m3/21
+#EXTINF:-1 radio="False" tvg-id="Cinemax2" group-title="Филми" tvg-logo="http://logos.kodibg.org/cinemax2.png",Cinemax 2 HD
+http://127.0.0.1:59311/tv@h0m3/22
+#EXTINF:-1 radio="False" tvg-id="MovieSTAR" group-title="Други" tvg-logo="http://logos.kodibg.org/moviestar.png",Moviestar HD
+http://127.0.0.1:59311/tv@h0m3/23
+#EXTINF:-1 radio="False" tvg-id="VivacomArena" group-title="Филми" tvg-logo="http://logos.kodibg.org/vivacomarena.png",VIVACOM ARENA HD
+http://127.0.0.1:59311/tv@h0m3/24
+#EXTINF:-1 radio="False" tvg-id="TV1000" group-title="Филми" tvg-logo="http://logos.kodibg.org/tv1000.png",TV1000
+http://127.0.0.1:59311/tv@h0m3/25
+#EXTINF:-1 radio="False" tvg-id="FilmBox" group-title="Филми" tvg-logo="https://logos.kodibg.org/filmbox.png",FilmBox
+http://127.0.0.1:59311/tv@h0m3/324
+#EXTINF:-1 radio="False" tvg-id="FilmBoXtraHD" group-title="Филми" tvg-logo="https://logos.kodibg.org/filmboxtrahd.png",FilmBox Extra HD
+http://127.0.0.1:59311/tv@h0m3/26
+#EXTINF:-1 radio="False" tvg-id="FilmBoxPlusHD" group-title="Филми" tvg-logo="https://logos.kodibg.org/filmboxplushd.png",FilmBox Plus HD
+http://127.0.0.1:59311/tv@h0m3/27
+#EXTINF:-1 radio="False" tvg-id="ComedyPlus" group-title="Филми" tvg-logo="http://logos.kodibg.org/cinemaplus.png",Cinema+
+http://127.0.0.1:59311/tv@h0m3/34
+#EXTINF:-1 radio="False" tvg-id="ComedyPlus" group-title="Филми" tvg-logo="http://logos.kodibg.org/comedyplus.png",Comedy+
+http://127.0.0.1:59311/tv@h0m3/35
+#EXTINF:-1 radio="False" tvg-id="ActionPlus" group-title="Филми" tvg-logo="http://logos.kodibg.org/actionplus.png",Action+ HD
+http://127.0.0.1:59311/tv@h0m3/36
+#EXTINF:-1 radio="False" tvg-id="Kanal4" group-title="Филми" tvg-logo="http://logos.kodibg.org/kanal4.png",Kanal 4 HD
+http://127.0.0.1:59311/tv@h0m3/37
+#EXTINF:-1 radio="False" tvg-id="Eurochannel" group-title="Български" tvg-logo="http://logos.kodibg.org/eurochannel.png",Eurochannel HD
+http://127.0.0.1:59311/tv@h0m3/38
+#EXTINF:-1 radio="False" tvg-id="amc" group-title="Филми" tvg-logo="http://logos.kodibg.org/amc.png",AMC
+http://127.0.0.1:59311/tv@h0m3/39
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV1
+http://127.0.0.1:59311/tv@h0m3/40
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV2
+http://127.0.0.1:59311/tv@h0m3/41
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV3
+http://127.0.0.1:59311/tv@h0m3/42
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV4
+http://127.0.0.1:59311/tv@h0m3/43
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV5
+http://127.0.0.1:59311/tv@h0m3/44
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV6
+http://127.0.0.1:59311/tv@h0m3/45
+#EXTINF:-1 radio="False" tvg-id="" group-title="Филми" tvg-logo="https://www.predavatel.com/bg/tv/images/gcn.png",PPV7
+http://127.0.0.1:59311/tv@h0m3/46
+#EXTINF:-1 radio="False" tvg-id="1va" group-title="Филми" tvg-logo="https://www.parvaprograma.com/logo.jpg",1-va Programa
+http://127.0.0.1:59311/tv@h0m3/363
+#EXTINF:-1 radio="False" tvg-id="KinoBG" group-title="Филми" tvg-logo="",KinoBG
+http://127.0.0.1:59311/tv@h0m3/416
+#EXTINF:-1 radio="False" tvg-id="AXN" group-title="Филми" tvg-logo="http://logos.kodibg.org/axn.png",AXN
+http://127.0.0.1:59311/tv@h0m3/47
+#EXTINF:-1 radio="False" tvg-id="AXNBlack" group-title="Филми" tvg-logo="http://logos.kodibg.org/axnblack.png",AXN Black
+http://127.0.0.1:59311/tv@h0m3/48
+#EXTINF:-1 radio="False" tvg-id="AXNWhite" group-title="Филми" tvg-logo="http://logos.kodibg.org/axnwhite.png",AXN White
+http://127.0.0.1:59311/tv@h0m3/106
+#EXTINF:-1 radio="False" tvg-id="ComedyCentral" group-title="Филми" tvg-logo="http://logos.kodibg.org/comedycentral.png",Comedy Central Extra
+http://127.0.0.1:59311/tv@h0m3/49
+#EXTINF:-1 radio="False" tvg-id="Discovery" group-title="Документални" tvg-logo="http://logos.kodibg.org/discovery.png",Discovery Channel HD
+http://127.0.0.1:59311/tv@h0m3/50
+#EXTINF:-1 radio="False" tvg-id="TLC" group-title="Документални" tvg-logo="http://logos.kodibg.org/tlc.png",TLC
+http://127.0.0.1:59311/tv@h0m3/51
+#EXTINF:-1 radio="False" tvg-id="IDXtra" group-title="Документални" tvg-logo="https://logos.kodibg.org/id.png",Investigation Discovery HD
+http://127.0.0.1:59311/tv@h0m3/52
+#EXTINF:-1 radio="False" tvg-id="AnimalPlanet" group-title="Документални" tvg-logo="http://logos.kodibg.org/animalplanet.png",Animal Planet HD
+http://127.0.0.1:59311/tv@h0m3/53
+#EXTINF:-1 radio="False" tvg-id="DiscoveryScience" group-title="Документални" tvg-logo="http://logos.kodibg.org/discoveryscience.png",Discovery Science HD
+http://127.0.0.1:59311/tv@h0m3/54
+#EXTINF:-1 radio="False" tvg-id="DiscoveryHDShowcase" group-title="Документални" tvg-logo="http://logos.kodibg.org/discoveryhdshowcase.png",Discovery HD Showcase
+http://127.0.0.1:59311/tv@h0m3/55
+#EXTINF:-1 radio="False" tvg-id="" group-title="Документални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/1200px-DTX_Logo.png",Discovery TurboXtra HD
+http://127.0.0.1:59311/tv@h0m3/56
+#EXTINF:-1 radio="False" tvg-id="NatGeo" group-title="Документални" tvg-logo="http://logos.kodibg.org/natgeo.png",Nat Geo HD
+http://127.0.0.1:59311/tv@h0m3/57
+#EXTINF:-1 radio="False" tvg-id="NatGeoWild" group-title="Други" tvg-logo="http://logos.kodibg.org/natgeowild.png",Nat Geo Wild HD
+http://127.0.0.1:59311/tv@h0m3/58
+#EXTINF:-1 radio="False" tvg-id="History" group-title="Документални" tvg-logo="http://logos.kodibg.org/history.png",History Channel HD
+http://127.0.0.1:59311/tv@h0m3/59
+#EXTINF:-1 radio="False" tvg-id="H2" group-title="Документални" tvg-logo="http://logos.kodibg.org/h2.png",History 2 HD
+http://127.0.0.1:59311/tv@h0m3/60
+#EXTINF:-1 radio="False" tvg-id="CI" group-title="Документални" tvg-logo="http://logos.kodibg.org/ci.png",C&I Network
+http://127.0.0.1:59311/tv@h0m3/61
+#EXTINF:-1 radio="False" tvg-id="CBSReality" group-title="Документални" tvg-logo="http://logos.kodibg.org/cbsreality.png",CBS Reality
+http://127.0.0.1:59311/tv@h0m3/62
+#EXTINF:-1 radio="False" tvg-id="ViasatExplore" group-title="Документални" tvg-logo="http://logos.kodibg.org/viasatexplore.png",Viasat Explore HD
+http://127.0.0.1:59311/tv@h0m3/63
+#EXTINF:-1 radio="False" tvg-id="ViasatHistory" group-title="Документални" tvg-logo="http://logos.kodibg.org/viasathistory.png",Viasat History HD
+http://127.0.0.1:59311/tv@h0m3/64
+#EXTINF:-1 radio="False" tvg-id="ViasatNature" group-title="Документални" tvg-logo="http://logos.kodibg.org/viasatnature.png",Viasat Nature HD
+http://127.0.0.1:59311/tv@h0m3/65
+#EXTINF:-1 radio="False" tvg-id="ViasatHD" group-title="Документални" tvg-logo="http://logos.kodibg.org/viasathistory.png",Viasat H/N HD
+http://127.0.0.1:59311/tv@h0m3/66
+#EXTINF:-1 radio="False" tvg-id="TravelChannel" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/travelchannel.png",Travel Channel HD
+http://127.0.0.1:59311/tv@h0m3/67
+#EXTINF:-1 radio="False" tvg-id="LoveNature" group-title="Развлекателни" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature HD
+http://127.0.0.1:59311/tv@h0m3/400
+#EXTINF:-1 radio="False" tvg-id="TravelXP" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/travelxp.png",Travel XP HD
+http://127.0.0.1:59311/tv@h0m3/71
+#EXTINF:-1 radio="False" tvg-id="FineLiving" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/fineliving.png",Fine Living HD
+http://127.0.0.1:59311/tv@h0m3/68
+#EXTINF:-1 radio="False" tvg-id="HaydeVKuhnyata" group-title="Развлекателни" tvg-logo="https://www.predavatel.com/bg/tv/images/haydevkuhnyata.jpg",Hayde v kuhnyata
+http://127.0.0.1:59311/tv@h0m3/415
+#EXTINF:-1 radio="False" tvg-id="24kitchen" group-title="Развлекателни" tvg-logo="http://logos.kodibg.org/24kitchen.png",24 Kitchen HD
+http://127.0.0.1:59311/tv@h0m3/33
+#EXTINF:-1 radio="False" tvg-id="FoodNetworkHD" group-title="Тематични" tvg-logo="https://logos.kodibg.org/foodnetworkhd.png",Food Network HD
+http://127.0.0.1:59311/tv@h0m3/70
+#EXTINF:-1 radio="False" tvg-id="TV999" group-title="Документални" tvg-logo="http://logos.kodibg.org/tv999.png",TV999 HD
+http://127.0.0.1:59311/tv@h0m3/72
+#EXTINF:-1 radio="False" tvg-id="DocuBox" group-title="Документални" tvg-logo="http://logos.kodibg.org/docubox.png",DocuBox HD
+http://127.0.0.1:59311/tv@h0m3/73
+#EXTINF:-1 radio="False" tvg-id="PVTV" group-title="Документални" tvg-logo="http://logos.kodibg.org/thefishinghuntingchannel.png",Fishing & Hunting HD
+http://127.0.0.1:59311/tv@h0m3/74
+#EXTINF:-1 radio="False" tvg-id="HobbyTVHD" group-title="Документални" tvg-logo="https://logos.kodibg.org/hobbytvhd.png",Hobby TV HD
+http://127.0.0.1:59311/tv@h0m3/75
+#EXTINF:-1 radio="False" tvg-id="HobbyTV" group-title="Документални" tvg-logo="http://logos.kodibg.org/hobbytv.png",Hobby TV
+http://127.0.0.1:59311/tv@h0m3/76
+#EXTINF:-1 radio="False" tvg-id="HobbyLovHD" group-title="Други" tvg-logo="https://logos.kodibg.org/hobbylovhd.png",Hobby lov
+http://127.0.0.1:59311/tv@h0m3/77
+#EXTINF:-1 radio="False" tvg-id="ChasseAndPecheFR" group-title="Други" tvg-logo="http://logos.kodibg.org/chasseandpeche.png",Chasse & Peche
+http://127.0.0.1:59311/tv@h0m3/78
+#EXTINF:-1 radio="False" tvg-id="DestinationBG" group-title="Български" tvg-logo="https://logos.kodibg.org/destinationbg.png",Destination BG
+http://127.0.0.1:59311/tv@h0m3/385
+#EXTINF:-1 radio="False" tvg-id="BulHistory" group-title="Български" tvg-logo="https://logos.kodibg.org/bulhistory.png",Bulgarian History
+http://127.0.0.1:59311/tv@h0m3/413
+#EXTINF:-1 radio="False" tvg-id="thisisbg" group-title="Български" tvg-logo="http://logos.kodibg.org/thisisbg.png",This is Bulgaria HD
+http://127.0.0.1:59311/tv@h0m3/79
+#EXTINF:-1 radio="False" tvg-id="Travel" group-title="Документални" tvg-logo="http://logos.kodibg.org/traveltv.png",Travel TV
+http://127.0.0.1:59311/tv@h0m3/80
+#EXTINF:-1 radio="False" tvg-id="BGDNES" group-title="Документални" tvg-logo="http://logos.kodibg.org/bgdnes.png",BG DNES HD
+http://127.0.0.1:59311/tv@h0m3/81
+#EXTINF:-1 radio="False" tvg-id="TheWorld" group-title="Документални" tvg-logo="http://logos.kodibg.org/theworld.png",The World
+http://127.0.0.1:59311/tv@h0m3/82
+#EXTINF:-1 radio="False" tvg-id="wness" group-title="Други" tvg-logo="https://logos.kodibg.org/wness.png",Wness TV HD
+http://127.0.0.1:59311/tv@h0m3/83
+#EXTINF:-1 radio="False" tvg-id="Wild HD" group-title="Документални" tvg-logo="https://wildtv.ca/wp-content/uploads/2019/03/WILD-PURSUE-ON-DEMAND-logo_2.png",Wild HD
+http://127.0.0.1:59311/tv@h0m3/84
+#EXTINF:-1 radio="False" tvg-id="City" group-title="Музикални" tvg-logo="http://logos.kodibg.org/city.png",CITY TV
+http://127.0.0.1:59311/tv@h0m3/28
+#EXTINF:-1 radio="False" tvg-id="TheVoice" group-title="Музикални" tvg-logo="http://logos.kodibg.org/thevoicetv.png",THE VOICE HD
+http://127.0.0.1:59311/tv@h0m3/29
+#EXTINF:-1 radio="False" tvg-id="BGMusicChannel" group-title="Музикални" tvg-logo="http://logos.kodibg.org/bgmusicchannel.png",BG Music Channel HD
+http://127.0.0.1:59311/tv@h0m3/85
+#EXTINF:-1 radio="False" tvg-id="BoxTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/boxtv.png",Box HD
+http://127.0.0.1:59311/tv@h0m3/86
+#EXTINF:-1 radio="False" tvg-id="BGTopMusic" group-title="Музикални" tvg-logo="https://www.predavatel.com/bg/tv/images/bgtopmusic.png",BG TOP MUSIC
+http://127.0.0.1:59311/tv@h0m3/383
+#EXTINF:-1 radio="False" tvg-id="MTVHits" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mtvhits.png",MTV Hits
+http://127.0.0.1:59311/tv@h0m3/87
+#EXTINF:-1 radio="False" tvg-id="MTV Dance" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mtvdance.png",MTV Club
+http://127.0.0.1:59311/tv@h0m3/88	
+#EXTINF:-1 radio="False" tvg-id="MTVLiveHD" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mtvlivehd.png",MTV Live HD
+http://127.0.0.1:59311/tv@h0m3/89
+#EXTINF:-1 radio="False" tvg-id="PlanetaHD" group-title="Музикални" tvg-logo="http://logos.kodibg.org/planetahd.png",Planeta HD
+http://127.0.0.1:59311/tv@h0m3/90
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="https://bgtvnews.files.wordpress.com/2014/02/planeta4k-9.jpg",Planeta 4K PPV
+http://127.0.0.1:59311/tv@h0m3/708
+#EXTINF:-1 radio="False" tvg-id="Planeta" group-title="Музикални" tvg-logo="http://logos.kodibg.org/planetatv.png",Planeta TV
+http://127.0.0.1:59311/tv@h0m3/91
+#EXTINF:-1 radio="False" tvg-id="HitMix" group-title="Музикални" tvg-logo="http://logos.kodibg.org/hitmix.png",Hit Mix Music HD
+http://127.0.0.1:59311/tv@h0m3/92
+#EXTINF:-1 radio="False" tvg-id="FENTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/fentv.png",FEN TV HD
+http://127.0.0.1:59311/tv@h0m3/93
+#EXTINF:-1 radio="False" tvg-id="Balkanika" group-title="Музикални" tvg-logo="http://logos.kodibg.org/balkanika.png",Balkanika HD
+http://127.0.0.1:59311/tv@h0m3/31
+#EXTINF:-1 radio="False" tvg-id="DSTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/dstv.png",DSTV
+http://127.0.0.1:59311/tv@h0m3/94
+#EXTINF:-1 radio="False" tvg-id="SMusic" group-title="Музикални" tvg-logo="https://i.imgur.com/rACNCfU.png",S Music
+http://127.0.0.1:59311/tv@h0m3/375
+#EXTINF:-1 radio="False" tvg-id="IsperihTV" group-title="Музикални" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQDxUPEBIVFRUVEBUQFxUVFhUVFRAVFRUXFhUVGBYYHSggGBolGxgVITEhJSktLi4uFx8zODMsNygtLysBCgoKDg0OFxAQGi0gHyUtLS0tLS0tLS0tLy0tLS0tLS0rLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAcGBQj/xABEEAABAwIDBAUJBwIEBgMAAAABAAIDBBEFITEGEkFRBxNhcYEUIjJCUpGhwdEjM1NicpKxFuEVQ4LwJKKywtLxJTRk/8QAGwEAAgMBAQEAAAAAAAAAAAAAAAECAwQFBgf/xAA3EQACAQMCBAIIBQQCAwAAAAAAAQIDBBESIQUxQVETYRQiMlJxgZHRobHB4fAVM0JyIzQGJJL/2gAMAwEAAhEDEQA/ANxQAIAEACABAAgAQB51fjlPBk+QX9lvnH4aeKkotl0KFSfJHgVe3TBfq4z3uNvGwU1SZqjYPqzxqnbiY6OY3uH1upKkjRGwh8Tx6nbGQ+lO/wADb+FJUjRGyj7p5021rvxJD3vd9VLw0XK0j2RRk2lcf7klPQixW0URf1E7sRpQ/AiPZtRKNHkdxRoRF20H0J2bZ1DdJn/ud9UtESDtKb6Iu03SLVNcBvlx9mwN/C2ai6cSqVjRx2OhoekCtNr0b3jsjeCfEfRVuMe5knZUOk8Hu0u3jf8APpamEe0Y3Ob42F1HT2ZmlZe5NP5nRYXjFPUt3oJWvHIHzh2FpzHiFFpozVKU6bxJYLyRWCABAAgAQAIAEACABAAgAQAIAEABKAPDx3amnpMnO3n+w21x3ngFOMHI00bWdXlsjPcb25lmuN7cb7LMr951KvjSSOtRsIw6ZZy1RjfJWYRsVFdTzZ8YceKMomoxRRlxAnUpah60iu6rUdRF1CM1SWSLqjTVIyRdUaapGSLqnpYJhVTWu3aeMuF7F5yY3vcoueCmpdKHM0TA+jSNoDqyQyOt6DLtYD36u+Cqc2zDUv5v2djtaDCqeAAQwsZbiGi/v1UOZjlUlL2megCUFeSRt0CyVpsJied4xgP4Pb5jx3PbYhPLJxqzjtnY9WCcgAOubC1+J70itlpjwdECHIAEACABAHnYrjUFKWiZ+7vXtkTe1r6DtCjKUYrMmkvMtp0Z1PZWSj/WNH+If2P+ih6RR99fVFnodb3Q/rGj/EP7H/RHpFH319UHodb3T31aZgQAjnAC5Nh2oAgNW21wb9vDvUtLDJmm23SKGk09G4E6OlGYaeLWcz2q6FJc5HWtLHPr1fp9zM6nFHOJc5xJJuSTcnxV2UjrpxisIoy1h5qLkJzKz6hRIOZC6ZBFyIzIgi2NL0EWxpegi5AwOc4NaC4k2AAJJPIAapNlbng0vZHozvuz19+DhCD8JD8gqpT7GKrc9Imn0lOyJgjiY1jRkGtAAHgFWZG292WGtQRbJmMQRyTMjQBM1iBEgagB1kAVMRxOCmbvzysjHNzgPcOKZOFKdR4gmzmarpVw6N26JHydrGG3vNroNceHV3zwvmejgvSHh9U8Rsm3HEgBso3N4nQAnI+9LBGpY1oLOM/A6oIMYIA4XpG+9g/RJ/LVyuMf2F/t+jOrwznI5JebOuCANnXuTyZ4eLbRsjk8mhaZpyL7jfRiHtSv0YPj2K6FFtapbL+ciEp4eFzKwa97t6Z++7UNAtHGfytOp7T8FPZbLYj8TNukPbs7zqOkcQBdssg1J0LGnlzKaj1OvZ2qWJz+RmrplJs6esidKkGoYXpCyMJQLIhKBZGkoItjSUEMl3BsJmrJhDA0ucTmfVYPaceAUXLBXOaiss23Y/YyHD2733kxFnSEacw0cB8VS5ZMFSq5/A6gBRKSZkaCLZOyNAiZrUCHgIAfdMR4+0G1FLQs3p5ADa4jGcju5vzQX0bapVfqrbv0Mr2h6V6ma7KVogZc+d6UhHDXJvgg6lKxo095es/wOCqat8ri+R7nuOrnEknxKDoRqYWFsiPVMk2pDb2QQ1OLO62J6SZ6G0M15oL6E+fH+lx1HYfggzXFrTr78pd/ubng2MQVkQmp5A9pA01aeThwPYo4OJVozpS0zWDlOkf72D9En8tXK4x/YX+36M6HDOcjkl5s64IA7jGselqJXUNAbOabSz6tiHFrebl9Fp0VCOup8keMlUcnpiTYbhUdLHuRDU7znHN0juLnHilOo5vLGkktjj+kzarySHyeF9ppBmRrFHxPYToPFJLJus6Gt6pckYuXlSOyhAUgF3UDE3UDwG6gMCEIENIQRZ6Oz+ATV03UwDTN7j6MbeZ+ihKWCipUUFlm7bN4BDQQiGEdrnn0pHcyfkqG8nNnNyeWewxiRBssRxoINlhkaBEgagB1kCGTTNY0ucQ1oFySbADvTGk28Iy/a/pSDbw0HnHMGZwyH6Bx45lB1KHD8etV+n3Mrq6l8zzJK9z3ONy5xuSg6ONsLkQ2QPAtkDwCY0mKglzWGMOSZU8xZ7Wy+00+HzCWB1gbb7D6MjQdCPmkKcYVY6ZrK/L4GnYztPDiTYJobgtbIHsOrHeZ7x2rk8YX/BH/AG/RlNpbSoTknunyZ5y80bgQBo+DYUymhbEwcLudxe7i4r6DUqOcss8dGKisIMYq208L53+jGwvPgNEkTjFykoo+asdxV9ZUvqZNXuvbg0DJrR3CytWx36cFCKiilZBYh7WoJYHbqeCaQu4geBpajAYGlGCLRcwTB5KyobTwjN2rjoxo1cexQlLCM9aooI3jZzAYqGAQxAXsC99vOkdxcVmbyzkzm5PLPZZHdIrbLMcSCJYbGgQ8NQAtkxHj7S7QwUERlndnbzWD05DyA+eiC+hbzrSxH6mIbXbZVGIOLXHchvdsQOWWhcfWPwQd2hawor1efc5qyDRpCyY9AWQS0C2RgegLIwLQJZGBaQc26CMo5WCFMzcjp9hz9rJ+gfyuTxj/AK6/2/Qtps7JeZLQQBrC96eQMp6aseLGsoWG3WDrZOe6DZre4kE+Ctgup0LGmnmb+RkJUjpIkYmSQ9gUi1EgCZYkOsnglpEIRgTiLTUb5pGwxNLnvcGgDmcrnkO1Qk8IoqzUFlm6bH7Msw+nEYs6R2cklrFx5fpHBZJSyziVajnLJ0Mcd1EpbLccSCJYaxAh4agBbIA4zbfbyKgBiitJObjdByiyyLz8kzo2fD51vWltH8/gYhiuJzVUpmneXvPE8ByA4DsCeD0EKMYR0xWEU7J4J6QsgNItkDwLZA8BZA9IbqYaRpagg4iIINEcgSMtWOHk6PYb72T9A/lcnjP/AF4/7foKnzOzXmS4EAavO6zble9R5E+ZNrcVdV1007jkXlrexjTZoHhn4q5bI7dKGiCieQUImh0ZUi1ErU0WxZIpIuiPKmicRrzYIbwgnJRWWbF0cbJeRxeUTZzStBt+EzUN7+awznqZ525rupLyO2ZGqzK2Woo0ESy1qBDwEADiALnIDO/JAGWbfdIlt6loXZ6PnadObWf+XuUkjv2HC+VSsvgvuZRI4uJJNyTck5kk8SmdtoYgWAsgMBZAYFsgMAgATGCAEKCLGOQVsjegzVlsXMJxR1M4uYASRbNZ7i3hcQ0TzjOdiiLwep/V83sM+Kxf0i38/r+xLWxf6ul9hnxS/pFt5/X9ietG27fYr5Lh88oNnCPcb+t/mt/m/guxFHmaMNdRRPmlWnZY4KKEDCpFpKCmiaZI13BSLUyQFSRbFnc9F2zPlEvlsrQYoyRGDnvyD1u5v89yz1qmdkcq/ucvRE2BrVnOUyxGxBEssagRIAgBJZGsaXuIa0C5JNgBzJQNJyeEYz0gbfOqS6mpXFsIu1zhrP8ARn8qaR6fh/DFRSqVd5dF2/cz0lM6zYwpMgIgQIAEACABMQIALoDIhQRbGFBBkTikZakssRBSKEhpZeETeTFGGavQ5mydOE+7QMZ7dS0eDWuP0VkDzVks1G/Iw4qw6LHNSARykicWPY5BMkUkySZ6ez2EvraqOlbfzjd7h6kY9I/LxSnPSiNet4cGfQeGUMdPCyCJu6xjd0D596xnDlJt5Z6EbUFbLUbUCJQEAR1dSyKN0sjg1jWlznHQAIJQg5yUYrLZh2323D65xhhJbTtOQ0dKR6zuzkFNI9VYWEbZapbz/I4olSOi2JdIjkRIBECBAAgATEIgQl0CyISgjkQlLJBzQ0lGSqUxiWShsaXJZK3I7/o52CfVvbU1LS2n1AOTpuVvy9qRTVu/AXq+1+Xx8zZv8DpvwI/2hPJyvSavvMyzp7qftKWHk2SQ+Ja0fwVdTL7Je0zJyVYbRWlJgOQhoQZKRYiTfsLoGng23oz2bNHTGWUfbTWc7nG23ms+ZWactTOVcVdcjt4goGZluNqCBYaEARV1bHBG6WV4YxouSTYf+0E6dOVSSjFZZhG3O28le/cbdkDTky/pn2n9vZwTR6uysYWqy95d+3wOPLlI1uQm8gWoN5AZDeQGQ3kBqDeQGoTeQLUJvIyR1oQuRki6iEJSyVuoNLkslbmIXJFTmMLkyDmPpoHyvEcTHPe42DWi5KRW5Gs7F9F4jc2oryHPBuIRYsHLfPrHsGSDBWu+kPr9jU4rAAAWAFgBoEHPbySbyWQMO6dZL4hEOVMPi9xWinyOhZr1GZqrDWOCQDwkAEJjTOn6OsA8trRv/dw2ld+Y381vif4UKksIpuKuIm8tVBzS3A1BBluMIENrayOCN0srg1jRvFx4BBOnTlUkoxWWzBdvdsn4hLut82FhO43n+d3b/CD1VpaxtI95vn5eRyBcmXOoxN5BDWwujI9YXRkNYbyBeIJvIyLxA3kZIuoIXJEHUG7yCDmJvIIuYhcgi5DS5BByG3QRy2dLspsXU4gQ5o3Ib5yuGXaGj1j8EFVWrGn7XPsbVsxsrTYey0LPPIAdI7N7/HgOwIObVryqc+XY94JFAu8kMN5A8GI9OI/+RYf/AMzf+py1Q5G+z/t/MzoKRpYoTAc0pMYrjkkBvHR5gfklAzebaSQdbJzu7RvgLBUSeWc6tPVI6uJuaiUMvRNQRJJ52xsdI8hrWtLnE6ADMlA4xcmox5swnb/bV9fIY4yW07T5rdC8j13fIcEHqLO0jaxy95vr28kcWSgvbGoKmxLoINibyCOoLoI6wugNQl0BqEugjkLoFkQlAsjboItiIIl/CMGnq39XTxueeNtG9pJyCAeIrM3hGr7J9GUUFpasiWQWIYPu2H/vPfkkYat50p7efU0FjA0WAAA0AyA8EzC3kddLIgLkh4E3lFsmkF1HJLBj3TpH/wAVTv5wOb+19/mt0DTZP1H8TNApGoRMaFBSGdR0dYP5XiDA5t44/tX8vN9EHxt7lCbwimvPTE3tUHPLEDUEGWg4AXJsBmSdAgWM8jF+kfbc1bvJqckQscbm/wB8Rx/TyQelsbNW8dcvaf4fucCSg1tjCgrbEKCtsQoIMRBAECBACIAECEKBCIFgnoqGSZ4ZExz3HKzQSfhoglo2y9kaTsz0Vk2krnWGvVMOZ/U/5D3pZMdW9jHamsvuzTMPw+KnjEUMbWNGgaP93Qc2dSU3mTyWkZICFyQxpelkaQ3eUWyxRFaVDJPA9IDNOm+mvT083syuj8Htv/2rpRJWD3lEx9Nm9oEhCFSGbf0SYT1FB1zm2fO8v7dwZM8NT4rPN5ZhuJZnjsds1QM7LUSCBlHSdtn1rjQ07h1bSOseD944eqD7I+JQeg4daeElVn7XRdv3M3JQdFsaUEGIggxCgrEQRwFkCwIgMAgWAQLAlkBgs0GHyzvEcLHPcTazRf8A9IJaMLMtl5mjbOdFbjaStfu8eqYQXdzn6DwSMVW+hDams+bNKwzC4aZnVwRtY38ozPedT4oOXUqzqPMnktoKxCUgGFyCSRG56i2SURhcoNlqiKCoZJ4JWJiZF/iMP4rP3BV+LDuh+HPscv0t0RkwxzgPu5GP7hfdJ+K60eZCwf8Ay47mDkKbR1pRGqOCpos4bSGeeOFuZfI1mXabJckJvCbPpiCERsbG0Wa1oaANAALBZ2crOSRgSEzhekza7qWGigPnvbaRwOcbT6ot6x+AQdTh1pqfiz5LkZIg7beRqBMQoIiIItAgi0CBJZ5AgMCWQLAWQLSXcLwiepeI4I3PJNshkO86DxQOUYwWqbwjRtnuijR9bJwv1Uet+1/096WTBV4jCO1JZ839jRsMwmCmbuQRNjHHdGbu86lByqtadV5m8lsoyVDSUhjHOSyNIic9LJJRI3OUXItUBhcq3IsUREsjIayvjgbvyuDR26nuHFQlNRWWOMHLZHFY1tXJUXjhG5Hz9Zw7fosNau5bcka6dFR3fM8PcPtH3rJldi82PGqBtRTSRHNskTm+8ZEfAr1ieGefpTcJqS6M+YZ4SCWnUEgjtGRWk9PKOdyu5qi0Z5QO56H8KEta6dwuIWXF/bfcA+A3vgqp8jFdS0wx3NoVJzzntttpRQU922Msl2xjllm89g/lI2Wds689+S5mHyvc5xc4kuJuScySdSUHo8YWEMQAlkAFkCwMleGguOgQV1ZxpQc5ckFDh09a3dgp3lwe09ZvWY1pDrg3sLm7DxOR5oPN3FzOs9+XYrUTC0vYRbddunj5wJBz05aZIOhwrU1NdNvqWt1B1tDZ7OB7LVVaR1ETi32zkwW1845JZIVZ0qP9yWPLqaRs90UxR2fWP6x1gdxlwwHtdq74IOXW4o+VFY83zNAoqGKBu5DG1jeTQAPgkcudSdR5k8smKCAwlAEbnJZHghe9RbJqJE56i5FigRlyg5FiiNUckiOoqGRt35HBrRxJsFFtLmNJvkcji+24F2Urd4+27Qdw4rPOv2L40e5yk88kzt+Z5ce3gsspZNCikTwtVMmSJ91QyM7vo52gE0XkUmUsDQBf/MjGQd3jIL293R0S1LkzytGepYMs6RcF8kxCRg9GQ9ezueTceDt5Km8xPWWVTxaKfbY5V7E2i6UDXehzD9yifOf82U2/Szzf5uqJ8zgXs81MdjrsaxNlJA+eT0WjQauJ0aO0lVMroUpVpqEephWP4s+sqH1EmRccm3uGNGjQonq6FCNGCgjzky3SKgNIJC0ggNJ0OxGzzKyYyztLoY3BobbKR5FyTfUAEDxPJB5zidfXU8Ncl+ZoeOYe1sBELNBk1tg0e7UoOYcHsVsJU4jC2qMjWxyFzjI65c5wduuAZ2EEcBkkdq1vKFvQS3cuqNOwDo5o6azngzvBveT0Qexgy990FFfidaptH1V5fc69jQ0brQABoALAeCRzm292BcgMDC9LIYI3SJZJKJC6RRciagROlUXImoERco5JpDUhnn4jjMFP97IAfZGbvcFXKpFcyyNOT5HLYhtu91208VuG+/XvDVnlcdi+Nv3OarJ5Z3b00heeR0HcFndRs0KmkMbHZQbJYJWNUWxFqJqrbAsbqrAgbNJTytqoMpIzp7bfWaea+lzgpxcWeIpz0s9jpKjZX0UOJwG+59m8cWh1te0Oy8VyoJ05uEj1HB7hanTfUyuUWBPYrmd2awmz6C2OpBFh1O3S0DHHvIuT7ysjZ5Gs9VST8zMekHaLyufqo3HqY8hye7i/tHAf3Vb3PV8MsfBp6pr1n+COPc1B0HHAlkEcBZAYDdQPSXW4NUGB9QIn9Wxu8XkWBubNAJ1JJAFtSUsmS5uqVGLy9+xsmxmACno44jYncF+15ze/33Pgg8e228sm2jxakpGFs8jb7pAiZ50h5DdGnebBQlOMeZVOrCHNnndDdaHYe6HfuYqmQBpvvRxvO/GHd93EWJHbkUKWVkshLUso7oyIyT0kbpVHUSUSJ0qi5E1AjdKlqJKJGXlRySwhqQynW4pDCLyyNb2E5+7VQlOK5snGnKXJHPVu20YygjdJ2nzG/UqiVzFci+NtJ8zwK3HKufJ0nVt9mPL46rNK5bNMbdI8sUwvc5nmcyVS5tlygkO3UsjwFkCwG6jIiRjUmxFuFqqbEWNxQyB6uM7NSQ3ezz4+Y9Jo7R819EoXcamz2Z4mpRcd1ujwaOq8n6yF3/1qgFkg/Cc4WEg5DS6ncUda1Lmi20uHSqRl2ZxGKUbo3uhdqHBnYbnIjsIN/FZZP1cnu6lWM6HiR5NGu7e46aKkio4jaR8Ia48Y42tDT4nT3rCtzj8Ks1WqOrP2V+LMUoKx8swaIpHhwLWMj9JzyLsOY85vEjLIk8EhV+L3FST0PSvL9Wdls30Z1Up36yYwj2Wua5x8RcD4oMnptxnPiS+p7FV0ZMH3VY/I59YwOaRfOxaGkd+iC+nxS5h/ln4r+M82n2IlikvVh5h/FpGGf90eUjfBrkG7+uPT7G/x2NE2W2dwwN66laye3ml7j1jmOGoLT6Dr8LAjkomGtxCvV2csLy2KfSbjEdPHSxvF2yVjXua0C7mU7TJYcPvOqUXJRWTn1ZqEXJnE4vt9V1A3IT5PFmBuG8jhpcyaj/TbxWadZvZbHMq3Unstjkn7xJPEm5c469p4qrbqZsrqap0T4SaeCWpcbmoLALEEbkYdY5HLN7stclohJ6TtWUH4eX8juTIU8m3ShhclkkQVFZHGLyPa0dpAUJTiubJRhKXJHkVW1lMzJrjIfyAn46KqVxBFsbabPKqdsJXZQwhvIyH5D6rPK8XQ0Rsu55FViNVNlJOQOTPMHvGazyupM0QtoRKTaRt7nM8zmVS6kmXqEUS7ijklgaWoyLA0tTyLAwtUsiwNLU8kcCbqWSJKxqTZEuU0dyAqpvCEex5Gsusjk9iCKSL7mVwHsP8APb3cx7161TZ4KFzOJ52LUAlBL4LOINzEQWu/Uw2N+5dChfyhtLdFniwlvyZmuM4Y+CVji1zmCVh0Nw1puQbrTXqwqQ1RZ6XhV261F23Xp/PI9qXCazE531IaAJHbwdJIxoa31Rmb2A5BYfEgljJ6ONe3tKap55dkW4OiuspntqqOqh64OP2Zc5rLHUBwBuDnlYa684a4nmLp0pTcqSaT7/oe1s5iNRHM6irmdVOMw7NzKhvtRSH0rAi41+KaaZmO6o6c5m55knP+UwOex3byjpbxsPlEgy3YiLNP5n5tGfIk9iqnWjHzM9S5hDzMwxzaKpnqPLYwKWRosHQ7rXOHASEn7UdjsuxZ/SG2ZFeyctjjcSxqWeTrJXuLzPLI5tvMaZBHvObc3BcWm7dBYWtew1NJxN8/XgejTyvfyt3/ANlhkkjkzjGJaZCG5u+Juq3IKNGtcS0UYuT8l+fb5l7B9onUMzZojZhcGStJO49jjbeI5g2O9qLEaEqdNy3S+XxPTW3Bq9pT8WtNdMpb4z1z3+H1O9m2kqX+iWMHMDePvKwyvJ/A6sbSC8yjPVzyenM8jkDuj4KmVxOXNl0aMI8kVfJm3uRc8zmfiqnNlmlEgYBolkYtkAJZAZAhACWQMSyAGkJgMITEMIUiLEsgiyWNqiyDPcwWk3nArJWmVyeEdP5IFj1GbWTU2Hyv0YR2nIfFe4UGzxkLWpLpg9KHAxrI6/MDIe/VWKnjdmynYxW8nk5vHqthf1UTW9Ww8r75435jULl3VXxcxXIn4vhzTp7YPOqcEDTceiRcG19y+YB427VxtembhPZnqqV1rgmU6ugfFm5vmnRwzafEK6UJxWenfoWwrQnsnv26nkYrQdcwBr3RvY8SxyDWN7dDbiOBHarLe5lRnq5+Qq9BVYaWc/jG1dXVb0NRKRuuLDFGCxp3Ta5aM3A65k6rszqSmk+jPG3viwqOEuSPOjbui9rdnEql7nObzsMmjc7jYdmvcmmkSi4xOdraUvqGQxi7nWAGQuXaZ8MrLbCajTcpckdmzTqRSXPOCU9fSvMU7SD2625tdo4KOIVo6oP+eZo9FpRqr0iLx2X5+fyPSjkLs73/AN/BZGsPB7O1jThTSopKPlyG1WbCN3ey9Hi78uXPTxUqftIL3e3mn2NDhHmty3fNHm+zlp4LjS5vqZI8kPUSQIAEACABACIALJgIQgY1ADSEwGEKRFiAIIMuUNPvOAVVSWEVs7/Z7CDYEiwtqlaWU7qeXtHuc+5rpbI6XyJnsr0P9Ot/dRz/ABZdyytxWeZjlQWxua3UtPgudf3Phx0Lm/yIT5bGfyssubF5MDWDp6M9bTseNWt3HDuUL+3dWkqsOa5/A61lWWlRZWYHRZxgFpzMZ0PdfQrn2t7Kk8c0dCcFPnz7gcFpqsEx3ikGrRwPa0/JdmnTt7lZh6rIq5rUdpesjnMY2He13WGISWHpMJBNtA4CxPxUJULiisLdEp+h3bTqx38/2M3dMBm7Ikklvsnl4aeC0tYeDzdvwi7u6kvDhiOXu9o8+nf5ZKs1STkMv5TR6uy/8Yt6OJVnrl9I/Tr8/oUMMjviMJP4kfwC0Tf/AK0/gyu7goXsIpYXq/kaRiGHRzsMcrQ4fFp5g8CuFSrTpS1QeDdUpxqLElk4HGdn56Ql8V5Ytchdzf1NH/UPGy7VG6pXCxPaX85fYwJXFm803mP8/mUJs7Sy1c0bt0tiY4SOeRk/dNwwE5HMZpXEoUIS3zJ7JfHqaPS6t3pjjEVu33x0NCK4aNoiYwQAiAFQAIAEACBAEAI5qB5IypDI3FSRFktFSvmeGRtLjyAujDbwt2VTkorLeDQ9ndlurs6bM67o0HeVtocM1PVW+n3OXcXmdoHXMYGiwC7UYqKwuRzm8jlIQIA52oqRI536iO62S8rc1nUqyb7kM5OfxKnsbhOnIy1IljZqp3XOiPrZjvGq6NtNbxfUdCWHg9Cqh3TcaH4di4fELPwJ5j7L/mDuUKutYfMqyQhxDgS1w0c3Ij6hYqdSVN5iy/BfpMaczzagXH4jRkP1Dgu9a8WUvVq/UyTtusTG+kPZt9HVSVcbWminmDmPYQeqkeC57HAei3eDs9Mx4dWSjVjqg8nQ4ZfeBLwavLp5P7M5clZz0ueobKwPqMVijiaXODi6w9lkZJP++xaasX6NJLm0eSuasZX2pvZP8kahPTPZ6bHN7wQvPShKPNYOlGcZcnkrlRJjSmMaUxjUxggAQIRAxUACABAhQgASAsUmDzzG0cTrcz5rfeVop0Kk+SK53FOC9ZnQ4ZsPcg1D7/kZ83LZTsvff0MFXiPuL6nY4fQxQfZwsa02ztrbm4roUqcIbRRzalSU3mTyekxllpSwUjkwBAAgDycRwneJkjNncRwd9CuZd8PVT1obMg49UeLO292PG64cCuK4ypvTJblct9meRNTuY4ObqDcLRTqdTO4tPJ0lLO2aO/PUciulKMLinplyZspVOUkVJ4iw9nA815m7tJW88Pl0Z1qVVVENWMsK1RQtexzLDdeN17HAOjkB1DmHIrTQu6lF5iyMoKWzOWxrYCjncHWkpLMDP+G3TCbes6Ii4POxz+K7VDi8JbVI7kMVorEJtLtk6nYXYqhw8GWmJllc0tdM8guLSb7oAyYNNBc2F11FXjVXqvYxODi9zrXNBFiARyOaAzgoVGCU8npRN7wN0+8KqVCnLnEtjcVI8pHnT7H07vRL29xBHuIVTsqT5ZRfG/qrnhlGTYcerP72/Qqp2HaRcuI94lWTYaX1ZWHvBH1UfQJ+8ia4jDrFkEmxVSNDGe5x+YUXY1fImuIUn3IDsjV+w0/62qPodbt+JP06j3/AT+kqv8Mfvb9UehVu34h6dR7/AIEjNjqo6hg73fQKSsavkRfEKK7lhmxE/GSMd28fkpqwn1aIPiNPomWI9hj6048G/Uqa4f3l+BW+Jdo/iXqfY6nb6bnvPeGj3BWxsqS55ZTK/qvlhHp0+FQRehE0dpFz7yrowpQ9mJRKtVn7UmXA3icgOPAKepsqwRR1BkJbTjLQyn0QeQHrH4KEJuo8Uv8A66fLuNrHtfQ9ClpmxiwzJzJOrjzK206agsIqbyTqYgQAIAEACAK1ZRMlFnjuIyI8VRWt4VliSE4pnPYjhMjMwN9vMajvC49awqU3mO6KZQaPKo6rqX39U6jl2ooVXB7lMZaX5HQtLZG31BC31KVOvDTLdGynUcXqiylNAWdo5ry93ZTt3vuu506VZVF5kaxFoIAjMAvvC7Xe002P91ZCrODzFia7lqGvmZraQdvmu9+hXTo8VnHaayUyoxfLYuRY1Gcn3YfzDL9wyXSpcQoz64KZUJLluX4pmuF2uBHYbrZGcZcmVNNcx6kIE8gLdGQEujIBdGQwJvIyGBLpZHgQlLIyOSQAXJA71CUkubGkUTibSd2Fpld+X0R3u0Wf0mLlpprU/InoeMyeCxHhb5fOqXXGoiZkzucfWWqFpKe9Z/Jcvn3K3US2h9T1o2Bos0AAaAZALeoqKwilvI5MAQAIAEACABAAgAQB52IYNFNmRuu9puR8RoVnqW1Oe7W5XOnGR4jsJqKYkxfaM5D0vd9Fl8CpSeYboq0Thy3RLDiLXea4bp0LXCx9xT8SE04TXyZONXfbZhJANWZ9nFca74S161HddvsdGldJ7SK64rTTwzYnkEgC6BYFugMEXUN1A3TzaS0/BWRqzjumGM8yVk0rRZsp/wBQDv7rXDiNaPXJB0ovoTtxSYDMMd72/VaocXl/kiDt10JGYy71oj/pcD/NleuLQ6oh6O+5J/jDfYf/AMv1Vi4rR8xejyD/ABlvsP8AcPqj+p0fMPAkIcXHCN//ACj5qL4rR6ZDwGQOxh5Nmxgd7rn3AfNVS4sukSSod2OZ5TKciGjsb8yowubu4f8Axx/nxBqnDmWYNnwTvTvc88icvct9Hhc5b15Z8l9yqVx7qPYggawbrGho5ALr0qUKS0wWDO5OW7JFYIEACABAAgAQAIAEACABAAgAQBDUUrJBZ7Q7vHz4KMoRls1kTinzKhwaL1d5vc42HgbqvwIrlsR8NdAkwlpHpG/M2VFexpV166379S2nOUOTKkuDuHokH4FcStwKot6ck/iao3K6lCaBzPSa4eBI94XMq2Vel7UGXxqRlyZD1jfaCzNNE8i3HMIwGQt2oHkQkcx70YYZAOCMBlkjInO9Fjj4KyFCpN4jFv5EXJLmyzHhszvVDe8rbT4Vcz/xx8Sp14LqW4sD9t9+wLfS4FL/ADnj4fuVO67IvQYdGzRviV06PC7al/jl+e/7FMq05dS2AugklsioEwBAAgAQAIAEACABAAgAQAIAEACABAAgAQAIAEACAPExbQrhcR9hmujzPBevOG1A1IC1AmuZCR7lDoF6Kx9hGOpzPSbou5HkZmKpACABAAgAQAIAEACABAAgAQAIA//Z",Isperih TV
+http://127.0.0.1:59311/tv@h0m3/389
+#EXTINF:-1 radio="False" tvg-id="PlanetaFolk" group-title="Музикални" tvg-logo="http://logos.kodibg.org/planetafolk.png",Planeta Folk
+http://127.0.0.1:59311/tv@h0m3/95
+#EXTINF:-1 radio="False" tvg-id="Rodina" group-title="Музикални" tvg-logo="http://logos.kodibg.org/rodinatv.png",Rodina TV HD
+http://127.0.0.1:59311/tv@h0m3/96
+#EXTINF:-1 radio="False" tvg-id="TiankovFolk" group-title="Музикални" tvg-logo="http://logos.kodibg.org/tiankovpop.png",Tiankov Folk HD
+http://127.0.0.1:59311/tv@h0m3/97
+#EXTINF:-1 radio="False" tvg-id="Tiankov Orient Folk HD" group-title="Музикални" tvg-logo="http://logos.kodibg.org/tiankovorientfolk.png",Tiankov Orient Folk HD
+http://127.0.0.1:59311/tv@h0m3/98
+#EXTINF:-1 radio="False" tvg-id="FolklorTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/folklortv.png",Folklor TV HD
+http://127.0.0.1:59311/tv@h0m3/99
+#EXTINF:-1 radio="False" tvg-id="FenFolk" group-title="Музикални" tvg-logo="http://logos.kodibg.org/fenfolk.png",FEN Folk
+http://127.0.0.1:59311/tv@h0m3/100
+#EXTINF:-1 radio="False" tvg-id="Sunrise Music" group-title="Музикални" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/sunrisemusic-1.png",Sunrise Music
+http://127.0.0.1:59311/tv@h0m3/101
+#EXTINF:-1 radio="False" tvg-id="FenFolk" group-title="Музикални" tvg-logo="https://www.cem.bg/files/154330759813941.png",Balkan Music TV HD
+http://127.0.0.1:59311/tv@h0m3/102
+#EXTINF:-1 radio="False" tvg-id="Roma TV" group-title="Музикални" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/roma_tv.png",Roma TV HD
+http://127.0.0.1:59311/tv@h0m3/103
+#EXTINF:-1 radio="False" tvg-id="DMSat" group-title="Музикални" tvg-logo="http://logos.kodibg.org/dmsat.png",DM Sat
+http://127.0.0.1:59311/tv@h0m3/104
+#EXTINF:-1 radio="False" tvg-id="KCN Music 2" group-title="Музикални" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/kcn-music2.png",KCN Music 2
+http://127.0.0.1:59311/tv@h0m3/105
+#EXTINF:-1 radio="False" tvg-id="MAD" group-title="Музикални" tvg-logo="https://logos.kodibg.org/madtv.png",MAD Greece
+http://127.0.0.1:59311/tv@h0m3/118
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="",Greek Music Mania
+http://127.0.0.1:59311/tv@h0m3/704
+#EXTINF:-1 radio="False" tvg-id="MADViral" group-title="Музикални" tvg-logo="https://www.techpress.gr/wp-content/uploads/2019/12/0-1.png",MAD Viral HD
+http://127.0.0.1:59311/tv@h0m3/421
+#EXTINF:-1 radio="False" tvg-id="IDJ" group-title="Музикални" tvg-logo="https://idjdigital.com/wp-content/uploads/2019/03/IDJTV.png",IDJ TV HD
+http://127.0.0.1:59311/tv@h0m3/113
+#EXTINF:-1 radio="False" tvg-id="BNMusic" group-title="Музикални" tvg-logo="https://freeweb.t-2.net/itak/LOGO/BN_Music.png",BN Music HD
+http://127.0.0.1:59311/tv@h0m3/111
+#EXTINF:-1 radio="False" tvg-id="PinkFolk" group-title="Музикални" tvg-logo="https://kliktv.rs/channels/pink_folk_1.png",Pink Folk 1
+http://127.0.0.1:59311/tv@h0m3/107
+#EXTINF:-1 radio="False" tvg-id="PinkFolk2" group-title="Музикални" tvg-logo="https://kliktv.rs/channels/pink_folk_2.png",Pink Folk 2
+http://127.0.0.1:59311/tv@h0m3/108
+#EXTINF:-1 radio="False" tvg-id="GRAND" group-title="Музикални" tvg-logo="https://totaltv.tv/oec/images/tv_channels/6d8f6b72b0cd6705da9e773e07ef86f8.png",GRAND
+http://127.0.0.1:59311/tv@h0m3/109
+#EXTINF:-1 radio="False" tvg-id="GRAND2" group-title="Музикални" tvg-logo="https://sbb.rs/oec/images/tv_channels/e2c40422ec1a1efd4c6523d1445f68b8.png",GRAND 2
+http://127.0.0.1:59311/tv@h0m3/110
+#EXTINF:-1 radio="False" tvg-id="CityPlay" group-title="Музикални" tvg-logo="https://totaltv.tv/oec/images/tv_channels/213a031ce88f91a5484fbbd57a21d831.png",CityPLAY
+http://127.0.0.1:59311/tv@h0m3/114
+#EXTINF:-1 radio="False" tvg-id="HayatFolk" group-title="Музикални" tvg-logo="https://ewsat.com/img/HAYAT_FOLK.png",Hayat Folk
+http://127.0.0.1:59311/tv@h0m3/112
+#EXTINF:-1 radio="False" tvg-id="TVDugaPlus" group-title="Музикални" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tv_duga_plus.png",Duga TV+
+http://127.0.0.1:59311/tv@h0m3/425
+#EXTINF:-1 radio="False" tvg-id="Taraf" group-title="Музикални" tvg-logo="https://i.imgur.com/qDNsmz8.png",Taraf TV
+http://127.0.0.1:59311/tv@h0m3/119
+#EXTINF:-1 radio="False" tvg-id="EtnoTV" group-title="Музикални" tvg-logo="https://www.soundsdesign.ro/wordpress/wp-content/uploads/2018/03/etno_tv-logo.png",Etno TV
+http://127.0.0.1:59311/tv@h0m3/120
+#EXTINF:-1 radio="False" tvg-id="YUPlanet" group-title="Музикални" tvg-logo="https://i.ytimg.com/vi/AvbQZxBWcD4/maxresdefault.jpg",YU Planet
+http://127.0.0.1:59311/tv@h0m3/117
+#EXTINF:-1 radio="False" tvg-id="MagicTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/magictv.png",Magic TV HD
+http://127.0.0.1:59311/tv@h0m3/30
+#EXTINF:-1 radio="False" tvg-id="MMTV" group-title="Музикални" tvg-logo="https://logos.kodibg.org/mmtv.png",MMTV HD
+http://127.0.0.1:59311/tv@h0m3/124
+#EXTINF:-1 radio="False" tvg-id="VH1" group-title="Музикални" tvg-logo="https://logos.kodibg.org/vh1.png",VH1
+http://127.0.0.1:59311/tv@h0m3/125
+#EXTINF:-1 radio="False" tvg-id="VH1Classic" group-title="Музикални" tvg-logo="https://logos.kodibg.org/vh1classic.png",VH1 Classic
+http://127.0.0.1:59311/tv@h0m3/126
+#EXTINF:-1 radio="False" tvg-id="MTVRocks" group-title="Музикални" tvg-logo="https://logos.kodibg.org/mtvrocks.png",MTV Rocks
+http://127.0.0.1:59311/tv@h0m3/170
+#EXTINF:-1 radio="False" tvg-id="360TuneBoxHD" group-title="Музикални" tvg-logo="https://logos.kodibg.org/360tuneboxhd.png",360TuneBox HD
+http://127.0.0.1:59311/tv@h0m3/127
+#EXTINF:-1 radio="False" tvg-id="MoozDance" group-title="Музикални" tvg-logo="https://i.imgur.com/Rrm4C0K.png",Mooz Dance
+http://127.0.0.1:59311/tv@h0m3/128
+#EXTINF:-1 radio="False" tvg-id="1MusicChannel" group-title="Музикални" tvg-logo="https://i.imgur.com/BAXZuJv.png",1 Music Channel
+http://127.0.0.1:59311/tv@h0m3/134
+#EXTINF:-1 radio="False" tvg-id="KissTV" group-title="Музикални" tvg-logo="https://i.imgur.com/CEaVGbA.png",Kiss TV
+http://127.0.0.1:59311/tv@h0m3/135
+#EXTINF:-1 radio="False" tvg-id="UTVRO" group-title="Регионални" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/6/65/UTV_%282008-.n.v.%29.png",UTV RO
+http://127.0.0.1:59311/tv@h0m3/379
+#EXTINF:-1 radio="False" tvg-id="RockTVRO" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",Rock TV RO
+http://127.0.0.1:59311/tv@h0m3/401
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="",Hard Rock TV
+http://127.0.0.1:59311/tv@h0m3/703
+#EXTINF:-1 radio="False" tvg-id="MusicChannelHU" group-title="Музикални" tvg-logo="https://lh3.googleusercontent.com/proxy/dYcjHAEH0pteSppPp5pivYRZsVKj9lvCLP5pbmG9sbRsPNExkFhVjVuMVATApwcZkpKI_R9lpn8",Music Channel HU
+http://127.0.0.1:59311/tv@h0m3/378
+#EXTINF:-1 radio="False" tvg-id="H!TMusicChannelHU" group-title="Музикални" tvg-logo="https://www.freeetv.com/images/01_logo/hit_tv.jpg",H!T  Music Channel HU
+http://127.0.0.1:59311/tv@h0m3/377
+#EXTINF:-1 radio="False" tvg-id="DreamTV" group-title="Музикални" tvg-logo="https://seeklogo.com/images/D/Dream_TV-logo-2147BE7EAC-seeklogo.com.png",DREAM TV
+http://127.0.0.1:59311/tv@h0m3/140
+#EXTINF:-1 radio="False" tvg-id="POWERHD" group-title="Музикални" tvg-logo="https://lh3.googleusercontent.com/proxy/uVxJ2Rb7wMvJpLSx4Zq8n6SrukXLNM4GulgSWrlWOcMxTZWEkdbhA-Kp6GWir9N2hZszvXrEvARiiIohvQ_n4q2gb8Ss5KapFJV_bzA0X3GsAclY2rsbOvArlkTE9CDFArmUhQ",POWER TV HD
+http://127.0.0.1:59311/tv@h0m3/418
+#EXTINF:-1 radio="False" tvg-id="NR1" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png",NR1
+http://127.0.0.1:59311/tv@h0m3/417
+#EXTINF:-1 radio="False" tvg-id="JukeBoxDE" group-title="Музикални" tvg-logo="http://logos.kodibg.org/jukebox.png",Jukebox HD
+http://127.0.0.1:59311/tv@h0m3/130
+#EXTINF:-1 radio="False" tvg-id="1HD" group-title="Музикални" tvg-logo="http://logos.kodibg.org/1hd.png",1HD Music Channel
+http://127.0.0.1:59311/tv@h0m3/132
+#EXTINF:-1 radio="False" tvg-id="BRIDGETV" group-title="Музикални" tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/bridge-tv-logo_0.png",BRIDGE TV
+http://127.0.0.1:59311/tv@h0m3/472
+#EXTINF:-1 radio="False" tvg-id="BRIDGETVDELUXE" group-title="Музикални" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Bridge_TV_Deluxe.svg/revision/latest/scale-to-width-down/340?cb=20191115130044",BRIDGE TV DELUXE HD
+http://127.0.0.1:59311/tv@h0m3/422
+#EXTINF:-1 radio="False" tvg-id="4evermusic" group-title="Музикални" tvg-logo="https://iptv.live/images/logo/channel/crops/18ead7e356867fcfaadbb5894adbb928.png",4ever Music HD
+http://127.0.0.1:59311/tv@h0m3/380
+#EXTINF:-1 radio="False" tvg-id="RetroMusicTV" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",RETRO Music TV
+http://127.0.0.1:59311/tv@h0m3/430
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="",Thess TV Music
+http://127.0.0.1:59311/tv@h0m3/702
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="",Back to the 90s
+http://127.0.0.1:59311/tv@h0m3/707
+#EXTINF:-1 radio="False" tvg-id="MusicBoxRU" group-title="Музикални" tvg-logo="https://logos.kodibg.org/musicboxru.png",Music Box Russia
+http://127.0.0.1:59311/tv@h0m3/162
+#EXTINF:-1 radio="False" tvg-id="MCM" group-title="Спортни" tvg-logo="https://w7.pngwing.com/pngs/68/472/png-transparent-mcm-top-television-channel-music-mcm.png",MCM FR
+http://127.0.0.1:59311/tv@h0m3/273
+#EXTINF:-1 radio="False" tvg-id="MCMTop" group-title="Музикални" tvg-logo="https://i.imgur.com/Ve2QVjy.png",MCM TOP HD
+http://127.0.0.1:59311/tv@h0m3/133
+#EXTINF:-1 radio="False" tvg-id="MCMPop" group-title="Музикални" tvg-logo="https://seeklogo.com/images/M/mcm-pop-logo-042DCB84A2-seeklogo.com.png",MCM POP
+http://127.0.0.1:59311/tv@h0m3/136
+#EXTINF:-1 radio="False" tvg-id="DeluxeMusicDE" group-title="Музикални" tvg-logo="https://logos.kodibg.org/deluxemusic.png",Deluxe Music HD
+http://127.0.0.1:59311/tv@h0m3/137
+#EXTINF:-1 radio="False" tvg-id="VOXMusicTV" group-title="Музикални" tvg-logo="https://logos.kodibg.org/deluxemusic.png",VOX Music TV
+http://127.0.0.1:59311/tv@h0m3/426
+#EXTINF:-1 radio="False" tvg-id="EskaTV" group-title="Музикални" tvg-logo="https://i.ya-webdesign.com/images/television-logo-png-1.png",Eska TV
+http://127.0.0.1:59311/tv@h0m3/436
+#EXTINF:-1 radio="False" tvg-id="EskaTVRock" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Eska_Rock_TV_%282017-.n.v.%29.png",Eska Rock TV
+http://127.0.0.1:59311/tv@h0m3/437
+#EXTINF:-1 radio="False" tvg-id="TraceUrban" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban FR HD
+http://127.0.0.1:59311/tv@h0m3/138
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Trace_Toca.svg/revision/latest/scale-to-width-down/340?cb=20191113143435",Trace Toca PT
+http://127.0.0.1:59311/tv@h0m3/553
+#EXTINF:-1 radio="False" tvg-id="RCK" group-title="Музикални" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/RCK_TV.png",RCK HD
+http://127.0.0.1:59311/tv@h0m3/131
+#EXTINF:-1 radio="False" tvg-id="DanceTrippin" group-title="Музикални" tvg-logo="https://bucket.mlcdn.com/a/1907/1907684/images/a023cefd3c85bacca9210d5e8196af636491db75.png",Dance Trippin
+http://127.0.0.1:59311/tv@h0m3/386
+#EXTINF:-1 radio="False" tvg-id="SLAM" group-title="Музикални" tvg-logo="https://lh3.googleusercontent.com/proxy/8WpDONSoiLcw1KlydeR9zCc2wvrji8RAnZ6ahlUnb5zcw9EWjcUTes_aQLyhKewaSjhUMp3QidZuq4R8bHF5QyvX30t9oTY3kklL",SLAM!
+http://127.0.0.1:59311/tv@h0m3/387
+#EXTINF:-1 radio="False" tvg-id="Amoreyo" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/amoreyo.png",Amoreyo HD
+http://127.0.0.1:59311/tv@h0m3/142
+#EXTINF:-1 radio="False" tvg-id="Cubayo" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cubayo.png",Cubayo HD
+http://127.0.0.1:59311/tv@h0m3/143
+#EXTINF:-1 radio="False" tvg-id="Partys" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/partys.png",Partys HD
+http://127.0.0.1:59311/tv@h0m3/144
+#EXTINF:-1 radio="False" tvg-id="BlackDiamondz" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/black-diamondz.png",Black Diamondz
+http://127.0.0.1:59311/tv@h0m3/382
+#EXTINF:-1 radio="False" tvg-id="Kick" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/kick.png",Kick HD
+http://127.0.0.1:59311/tv@h0m3/408
+#EXTINF:-1 radio="False" tvg-id="LollyKids" group-title="Музикални" tvg-logo="https://www.predavatel.com/bg/tv/images/lolly-kids.png",LollyKids HD
+http://127.0.0.1:59311/tv@h0m3/146
+#EXTINF:-1 radio="False" tvg-id="Chillayo" group-title="Музикални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/chillayo.png",Chillayo HD
+http://127.0.0.1:59311/tv@h0m3/145
+#EXTINF:-1 radio="False" tvg-id="TheBoxUK" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png",The Box UK
+http://127.0.0.1:59311/tv@h0m3/429
+#EXTINF:-1 radio="False" tvg-id="BoxHitsUK" group-title="Музикални" tvg-logo="https://zynetv.net/wp-content/uploads/boxhits.png",Box Hits UK
+http://127.0.0.1:59311/tv@h0m3/147
+#EXTINF:-1 radio="False" tvg-id="KissUK" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/240px-Kiss_Network_logo.svg.png",Kiss UK
+http://127.0.0.1:59311/tv@h0m3/148
+#EXTINF:-1 radio="False" tvg-id="MagicUK" group-title="Музикални" tvg-logo="https://zynetv.net/wp-content/uploads/magic.png",Magic TV UK
+http://127.0.0.1:59311/tv@h0m3/150
+#EXTINF:-1 radio="False" tvg-id="KerrangUK" group-title="Музикални" tvg-logo="https://www.userlogos.org/files/logos/Carlos182/kerrang.png",Kerrang! UK
+http://127.0.0.1:59311/tv@h0m3/149
+#EXTINF:-1 radio="False" tvg-id="MTVMusicUK" group-title="Музикални" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1432.1508556077.png",MTV Music UK
+http://127.0.0.1:59311/tv@h0m3/151
+#EXTINF:-1 radio="False" tvg-id="MTVBaseUK" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png",MTV Base UK
+http://127.0.0.1:59311/tv@h0m3/152
+#EXTINF:-1 radio="False" tvg-id="MTVHitsUK" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mtvhits.png",MTV Hits UK
+http://127.0.0.1:59311/tv@h0m3/153
+#EXTINF:-1 radio="False" tvg-id="MTVClubUK" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/ClubMTVLogo.png",MTV Club UK
+http://127.0.0.1:59311/tv@h0m3/154
+#EXTINF:-1 radio="False" tvg-id="MTVRocksUK" group-title="Музикални" tvg-logo="https://logos.kodibg.org/mtvrocks.png",MTV Rocks UK
+http://127.0.0.1:59311/tv@h0m3/155
+#EXTINF:-1 radio="False" tvg-id="MTVClassic" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",MTV Classic UK
+http://127.0.0.1:59311/tv@h0m3/156
+#EXTINF:-1 radio="False" tvg-id="NOW80s" group-title="Музикални" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81FZkpWusDL.png",NOW 80s UK
+http://127.0.0.1:59311/tv@h0m3/159
+#EXTINF:-1 radio="False" tvg-id="NOW90s" group-title="Музикални" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81a7NAHjSiL.png",NOW 90s UK
+http://127.0.0.1:59311/tv@h0m3/160
+#EXTINF:-1 radio="False" tvg-id="ClublandTV" group-title="Музикални" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png",Clubland TV
+http://127.0.0.1:59311/tv@h0m3/161
+#EXTINF:-1 radio="False" tvg-id="4MusicUK" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png",4Music UK
+http://127.0.0.1:59311/tv@h0m3/157
+#EXTINF:-1 radio="False" tvg-id="TraceUrban" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban UK
+http://127.0.0.1:59311/tv@h0m3/158
+#EXTINF:-1 radio="False" tvg-id="BETJAMS" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png",BET JAMS US
+http://127.0.0.1:59311/tv@h0m3/139
+#EXTINF:-1 radio="False" tvg-id="MTVU" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",MTV U US
+http://127.0.0.1:59311/tv@h0m3/253
+#EXTINF:-1 radio="False" tvg-id="4FunTV" group-title="Музикални" tvg-logo="https://i.imgur.com/JYldcpP.png",4Fun TV
+http://127.0.0.1:59311/tv@h0m3/121
+#EXTINF:-1 radio="False" tvg-id="4FunGold" group-title="Музикални" tvg-logo="https://4fun.tv/assets/logotypy/4fun_gold_logo__RGB.png",4Fun Gold
+http://127.0.0.1:59311/tv@h0m3/122
+#EXTINF:-1 radio="False" tvg-id="4FunFitDance" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/4FUN_DANCE.png",4Fun Fit & Dance
+http://127.0.0.1:59311/tv@h0m3/123
+#EXTINF:-1 radio="False" tvg-id="PolsatMusic" group-title="Музикални" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b1/Polsat_Music_%282017-.n.v.%29.png",Polsat Music HD
+http://127.0.0.1:59311/tv@h0m3/424
+#EXTINF:-1 radio="False" tvg-id="StarsTV" group-title="Музикални" tvg-logo="https://www.jambox.pl/sites/default/files/starstv-big.png",Stars TV
+http://127.0.0.1:59311/tv@h0m3/428
+#EXTINF:-1 radio="False" tvg-id="Ocko" group-title="Музикални" tvg-logo="https://logos.kodibg.org/ocko.png",Ocko TV
+http://127.0.0.1:59311/tv@h0m3/466
+#EXTINF:-1 radio="False" tvg-id="V2BEAT" group-title="Музикални" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/6/60/V2Beat.png/revision/latest?cb=20181213112224&path-prefix=ru",V2BEAT
+http://127.0.0.1:59311/tv@h0m3/250
+#EXTINF:-1 radio="False" tvg-id="NRJTV" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Energy_TV_Logo.png",NRJ TV HD
+http://127.0.0.1:59311/tv@h0m3/163
+#EXTINF:-1 radio="False" tvg-id="192TV" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/192_TV_logo.svg/1200px-192_TV_logo.svg.png",192TV
+http://127.0.0.1:59311/tv@h0m3/249
+#EXTINF:-1 radio="False" tvg-id="gotv" group-title="Музикални" tvg-logo="https://eutvchannels.com/wp-content/uploads/gotv.png",gotv
+http://127.0.0.1:59311/tv@h0m3/463
+#EXTINF:-1 radio="False" tvg-id="TMF" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/TMF_Logo.png",TMF HD
+http://127.0.0.1:59311/tv@h0m3/419
+#EXTINF:-1 radio="False" tvg-id="iConcerts" group-title="Музикални" tvg-logo="https://logos.kodibg.org/iconcerts.png",Stingray iConcerts HD
+http://127.0.0.1:59311/tv@h0m3/129
+#EXTINF:-1 radio="False" tvg-id="Classica" group-title="Музикални" tvg-logo="https://logos.kodibg.org/classica.png",Stingray Classica HD
+http://127.0.0.1:59311/tv@h0m3/164
+#EXTINF:-1 radio="False" tvg-id="Djazz" group-title="Музикални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png",Stingray Jazz HD
+http://127.0.0.1:59311/tv@h0m3/166
+#EXTINF:-1 radio="False" tvg-id="CMusic" group-title="Музикални" tvg-logo="https://i.imgur.com/tVZJ10U.png",Stingray C-Music HD
+http://127.0.0.1:59311/tv@h0m3/169
+#EXTINF:-1 radio="False" tvg-id="mezzolivehd" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mezzolivehd.png",MEZZO Live HD
+http://127.0.0.1:59311/tv@h0m3/167
+#EXTINF:-1 radio="False" tvg-id="Mezzo" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mezzo.png",MEZZO
+http://127.0.0.1:59311/tv@h0m3/168
+#EXTINF:-1 radio="False" tvg-id="ClassicalHarmony" group-title="Музикални" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/df8cb762340697.Y3JvcCwxMDY3LDgzNSw1Miww.jpg",Classical Harmony HD
+http://127.0.0.1:59311/tv@h0m3/165
+#EXTINF:-1 radio="False" tvg-id="MTV" group-title="Музикални" tvg-logo="http://logos.kodibg.org/mtv.png",MTV
+http://127.0.0.1:59311/tv@h0m3/141
+#EXTINF:-1 radio="False" tvg-id="CMCTV" group-title="Музикални" tvg-logo="https://www.vintageindustrial-bar.com/wp-content/uploads/2014/10/cmctv.png",CMC TV
+http://127.0.0.1:59311/tv@h0m3/115
+#EXTINF:-1 radio="False" tvg-id="JugotonTV" group-title="Музикални" tvg-logo="https://tvprofil.com/img/kanali-logo/jugoton-tv-logo.png",Jugoton
+http://127.0.0.1:59311/tv@h0m3/116
+#EXTINF:-1 radio="False" tvg-id="DiemaSport" group-title="Спортни" tvg-logo="http://logos.kodibg.org/diemasport.png",Diema Sport HD
+http://127.0.0.1:59311/tv@h0m3/171
+#EXTINF:-1 radio="False" tvg-id="DiemaSport2" group-title="Спортни" tvg-logo="http://logos.kodibg.org/diemasport2.png",Diema Sport 2 HD
+http://127.0.0.1:59311/tv@h0m3/172
+#EXTINF:-1 radio="False" tvg-id="NovaSport" group-title="Спортни" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/nova_sport_hd.png",Nova Sport HD
+http://127.0.0.1:59311/tv@h0m3/173
+#EXTINF:-1 radio="False" tvg-id="RING" group-title="Спортни" tvg-logo="http://logos.kodibg.org/ring.png",RING HD
+http://127.0.0.1:59311/tv@h0m3/202
+#EXTINF:-1 radio="False" tvg-id="MAXSport1" group-title="Спортни" tvg-logo="http://logos.kodibg.org/maxsport1.png",MAX Sport 1 HD
+http://127.0.0.1:59311/tv@h0m3/174
+#EXTINF:-1 radio="False" tvg-id="MAXSport2" group-title="Спортни" tvg-logo="http://logos.kodibg.org/maxsport2.png",MAX Sport 2 HD
+http://127.0.0.1:59311/tv@h0m3/175
+#EXTINF:-1 radio="False" tvg-id="MAXSport3" group-title="Спортни" tvg-logo="http://logos.kodibg.org/maxsport3.png",MAX Sport 3 HD
+http://127.0.0.1:59311/tv@h0m3/176
+#EXTINF:-1 radio="False" tvg-id="MAXSport4" group-title="Спортни" tvg-logo="http://logos.kodibg.org/maxsport4.png",MAX Sport 4 HD
+http://127.0.0.1:59311/tv@h0m3/177
+#EXTINF:-1 radio="False" tvg-id="SportPlusHD" group-title="Спортни" tvg-logo="http://logos.kodibg.org/sportplushd.png",Sport+ HD
+http://127.0.0.1:59311/tv@h0m3/178
+#EXTINF:-1 radio="False" tvg-id="F+" group-title="Спортни" tvg-logo="http://logos.kodibg.org/fplus.png",F+
+http://127.0.0.1:59311/tv@h0m3/179
+#EXTINF:-1 radio="False" tvg-id="Eurosport1" group-title="Спортни" tvg-logo="http://logos.kodibg.org/eurosport1.png",Eurosport 1 HD
+http://127.0.0.1:59311/tv@h0m3/180
+#EXTINF:-1 radio="False" tvg-id="Eurosport2" group-title="Спортни" tvg-logo="http://logos.kodibg.org/eurosport2.png",Eurosport 2 HD
+http://127.0.0.1:59311/tv@h0m3/181
+#EXTINF:-1 radio="False" tvg-id="Sportal HD" group-title="Спортни" tvg-logo="http://logos.kodibg.org/sportalbg.png",Sportal HD
+http://127.0.0.1:59311/tv@h0m3/182
+#EXTINF:-1 radio="False" tvg-id="B1BActionTV" group-title="Спортни" tvg-logo="https://logos.kodibg.org/b1bactiontv.png",B1B Action HD
+http://127.0.0.1:59311/tv@h0m3/183
+#EXTINF:-1 radio="False" tvg-id="AutoMotorSport" group-title="Спортни" tvg-logo="https://logos.kodibg.org/automotorsport.png",Auto Motor Sport HD
+http://127.0.0.1:59311/tv@h0m3/285
+#EXTINF:-1 radio="False" tvg-id="MotoSportBG" group-title="Спортни" tvg-logo="",MOTO SPORT BG
+http://127.0.0.1:59311/tv@h0m3/288
+#EXTINF:-1 radio="False" tvg-id="SpeedFactor" group-title="Спортни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/speed-factor.png",Speed Factor HD
+http://127.0.0.1:59311/tv@h0m3/411
+#EXTINF:-1 radio="False" tvg-id="WOW" group-title="Спортни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow.png",WOW HD
+http://127.0.0.1:59311/tv@h0m3/412
+#EXTINF:-1 radio="False" tvg-id="TraceSportStars" group-title="Спортни" tvg-logo="https://logos.kodibg.org/tracesportstars.png",Trace Sport Stars HD
+http://127.0.0.1:59311/tv@h0m3/282
+#EXTINF:-1 radio="False" tvg-id="EdgeSport" group-title="Спортни" tvg-logo="https://logos.kodibg.org/edgesport.png",EDGE Sport HD
+http://127.0.0.1:59311/tv@h0m3/283
+#EXTINF:-1 radio="False" tvg-id="Sportyfy" group-title="Спортни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/sportify.png",Sportyfy
+http://127.0.0.1:59311/tv@h0m3/388
+#EXTINF:-1 radio="False" tvg-id="BodyinBalance" group-title="Спортни" tvg-logo="https://pbs.twimg.com/profile_images/628907336204189697/XNfxTXE0_400x400.png",Body in Balance HD
+http://127.0.0.1:59311/tv@h0m3/423
+#EXTINF:-1 radio="False" tvg-id="HealthWellness" group-title="Спортни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/health-wellness.png",Health & Wellness HD
+http://127.0.0.1:59311/tv@h0m3/404
+#EXTINF:-1 radio="False" tvg-id="beIN Sports 1 HD" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN Sports 1 HD FR
+http://127.0.0.1:59311/tv@h0m3/184
+#EXTINF:-1 radio="False" tvg-id="beIN Sports 2 HD" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN Sports 2 HD FR
+http://127.0.0.1:59311/tv@h0m3/185
+#EXTINF:-1 radio="False" tvg-id="beINSports 3 HD" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIN Sports 3 HD FR
+http://127.0.0.1:59311/tv@h0m3/186
+#EXTINF:-1 radio="False" tvg-id="beINSports 4 HD" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",beIN Sports 4 HD ES (Laliga)
+http://127.0.0.1:59311/tv@h0m3/187
+#EXTINF:-1 radio="False" tvg-id="beIN Sports 1 HD AR" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN Sports 1 HD AR
+http://127.0.0.1:59311/tv@h0m3/188
+#EXTINF:-1 radio="False" tvg-id="beIN Sports 2 HD AR" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN Sports 2 HD AR
+http://127.0.0.1:59311/tv@h0m3/189
+#EXTINF:-1 radio="False" tvg-id="beINSports 3 HD AR" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIN Sports 3 HD AR
+http://127.0.0.1:59311/tv@h0m3/190
+#EXTINF:-1 radio="False" tvg-id="beINSports 4 HD AR" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",beIN Sports 4 HD AR
+http://127.0.0.1:59311/tv@h0m3/191
+#EXTINF:-1 radio="False" tvg-id="beINSports 5 HD AR" group-title="Спортни" tvg-logo="https://i.imgur.com/m0KsEpn.jpg",beIN Sports 5 HD AR
+http://127.0.0.1:59311/tv@h0m3/192
+#EXTINF:-1 radio="False" tvg-id="beINSports 6 HD AR" group-title="Спортни" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN6.png",beIN Sports 6 HD AR
+http://127.0.0.1:59311/tv@h0m3/193
+#EXTINF:-1 radio="False" tvg-id="beINSports 7 HD AR" group-title="Спортни" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN7.png",beIN Sports 7 HD AR
+http://127.0.0.1:59311/tv@h0m3/194
+#EXTINF:-1 radio="False" tvg-id="beINSports 8 HD AR" group-title="Спортни" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN8.png",beIN Sports 8 HD AR
+http://127.0.0.1:59311/tv@h0m3/195
+#EXTINF:-1 radio="False" tvg-id="beINSports 9 HD AR" group-title="Спортни" tvg-logo="http://runnel.ir/ax/logo/beIN9.png",beIN Sports 9 HD AR
+http://127.0.0.1:59311/tv@h0m3/196
+#EXTINF:-1 radio="False" tvg-id="beINSports 10 HD AR" group-title="Спортни" tvg-logo="http://runnel.ir/ax/logo/beIN10.png",beIN Sports 10 HD AR
+http://127.0.0.1:59311/tv@h0m3/197
+#EXTINF:-1 radio="False" tvg-id="beINSports 11 HD AR" group-title="Спортни" tvg-logo="http://runnel.ir/ax/logo/beIN11.png",beIN Sports 11 HD AR
+http://127.0.0.1:59311/tv@h0m3/198
+#EXTINF:-1 radio="False" tvg-id="beINSports 12 HD AR" group-title="Спортни" tvg-logo="http://runnel.ir/ax/logo/beIN12.png",beIN Sports 12 HD AR
+http://127.0.0.1:59311/tv@h0m3/199
+#EXTINF:-1 radio="False" tvg-id="beINSports 13 HD AR" group-title="Спортни" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/beinsport13.png",beIN Sports 13 HD AR
+http://127.0.0.1:59311/tv@h0m3/200
+#EXTINF:-1 radio="False" tvg-id="SkySportsActionUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-ACTION.png",Sky Sports Action UK
+http://127.0.0.1:59311/tv@h0m3/201
+#EXTINF:-1 radio="False" tvg-id="SkySportsMainEventUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png",Sky Sports Main Event UK
+http://127.0.0.1:59311/tv@h0m3/212
+#EXTINF:-1 radio="False" tvg-id="SkySportsPremierLeagueUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/sites/4/2017/07/SkySports-PREMIER.png",Sky Sports Premier League UK
+http://127.0.0.1:59311/tv@h0m3/203
+#EXTINF:-1 radio="False" tvg-id="SkySportsFootballUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-FOOTBALL.png",Sky Sports Football UK
+http://127.0.0.1:59311/tv@h0m3/204
+#EXTINF:-1 radio="False" tvg-id="SkySportsCricketUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-CRICKET.png",Sky Sports Cricket UK
+http://127.0.0.1:59311/tv@h0m3/205
+#EXTINF:-1 radio="False" tvg-id="SkySportsGolfUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-GOLF.png",Sky Sports Golf UK
+http://127.0.0.1:59311/tv@h0m3/206
+#EXTINF:-1 radio="False" tvg-id="SkySportsRacingUK" group-title="Спортни" tvg-logo="https://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySportsRacing.png_1926146284.png",Sky Sports Racing UK
+http://127.0.0.1:59311/tv@h0m3/207
+#EXTINF:-1 radio="False" tvg-id="SkySportsF1UK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-F1.png",Sky Sports F1 UK
+http://127.0.0.1:59311/tv@h0m3/208
+#EXTINF:-1 radio="False" tvg-id="SkySportsArenaUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-ARENA.png",Sky Sports Arena UK
+http://127.0.0.1:59311/tv@h0m3/209
+#EXTINF:-1 radio="False" tvg-id="SkySportsNewsUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-NEWS.png",Sky Sports News UK
+http://127.0.0.1:59311/tv@h0m3/210
+#EXTINF:-1 radio="False" tvg-id="SkySportsMixUK" group-title="Спортни" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MIX.png",Sky Sports Mix UK
+http://127.0.0.1:59311/tv@h0m3/211
+#EXTINF:-1 radio="False" tvg-id="ArenaSport1" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport1.png",Arena Sport 1 SR
+http://127.0.0.1:59311/tv@h0m3/213
+#EXTINF:-1 radio="False" tvg-id="ArenaSport2" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport2.png",Arena Sport 2 SR
+http://127.0.0.1:59311/tv@h0m3/214
+#EXTINF:-1 radio="False" tvg-id="ArenaSport3" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport3.png",Arena Sport 3 SR
+http://127.0.0.1:59311/tv@h0m3/215
+#EXTINF:-1 radio="False" tvg-id="ArenaSport4" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport4.png",Arena Sport 4 SR
+http://127.0.0.1:59311/tv@h0m3/216
+#EXTINF:-1 radio="False" tvg-id="ArenaSport5" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport5.png",Arena Sport 5 SR
+http://127.0.0.1:59311/tv@h0m3/217
+#EXTINF:-1 radio="False" tvg-id="ArenaSport1HR" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport1.png",Arena Sport 1 HD HR
+http://127.0.0.1:59311/tv@h0m3/218
+#EXTINF:-1 radio="False" tvg-id="ArenaSport2HR" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport2.png",Arena Sport 2 HD HR
+http://127.0.0.1:59311/tv@h0m3/219
+#EXTINF:-1 radio="False" tvg-id="ArenaSport3HR" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport3.png",Arena Sport 3 HD HR
+http://127.0.0.1:59311/tv@h0m3/220
+#EXTINF:-1 radio="False" tvg-id="ArenaSport4HR" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport4.png",Arena Sport 4 HD HR
+http://127.0.0.1:59311/tv@h0m3/221
+#EXTINF:-1 radio="False" tvg-id="ArenaSport5HR" group-title="Спортни" tvg-logo="https://logos.kodibg.org/arenasport5.png",Arena Sport 5 HD HR
+http://127.0.0.1:59311/tv@h0m3/222
+#EXTINF:-1 radio="False" tvg-id="ArenaSport6HR" group-title="Спортни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png",Arena Sport 6 HD HR
+http://127.0.0.1:59311/tv@h0m3/223
+#EXTINF:-1 radio="False" tvg-id="SKHD" group-title="Спортни" tvg-logo="https://ewsat.com/img/SPORT_KLUB.png",Sport Klub HD
+http://127.0.0.1:59311/tv@h0m3/240
+#EXTINF:-1 radio="False" tvg-id="SK1HD" group-title="Спортни" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub.png",Sport Klub 1 HD
+http://127.0.0.1:59311/tv@h0m3/224
+#EXTINF:-1 radio="False" tvg-id="SK2HD" group-title="Спортни" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-2.png",Sport Klub 2 HD
+http://127.0.0.1:59311/tv@h0m3/225
+#EXTINF:-1 radio="False" tvg-id="SK3HD" group-title="Спортни" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-3.png",Sport Klub 3 HD
+http://127.0.0.1:59311/tv@h0m3/226
+#EXTINF:-1 radio="False" tvg-id="SKGolf" group-title="Спортни" tvg-logo="https://ewsat.com/img/SPORT_KLUB_GOLF.png",Sport Klub Golf
+http://127.0.0.1:59311/tv@h0m3/227
+#EXTINF:-1 radio="False" tvg-id="SKChannel" group-title="Спортни" tvg-logo="https://1.bp.blogspot.com/-V2GJx20sldo/UlXzE9DS-8I/AAAAAAAAcPI/9JZfPeX9pXk/s1600/SportKlub+logo+2013.png",Sport Klub Channel
+http://127.0.0.1:59311/tv@h0m3/228
+#EXTINF:-1 radio="False" tvg-id="" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ERT_SPORTS_HD_LOGO.png",ERT Sports HD
+http://127.0.0.1:59311/tv@h0m3/585
+#EXTINF:-1 radio="False" tvg-id="MATCH!Futbol1" group-title="Спортни" tvg-logo="https://norbi-tv.ru/pro/wp-content/uploads/2019/10/matsh-fytbol-1hd-300x300.png",MATCH! Futbol 1 HD
+http://127.0.0.1:59311/tv@h0m3/229
+#EXTINF:-1 radio="False" tvg-id="MATCH!Futbol2" group-title="Спортни" tvg-logo="https://norbi-tv.ru/pro/wp-content/uploads/2019/10/matsh-fytbol-2hd-300x300.png",MATCH! Futbol 2 HD
+http://127.0.0.1:59311/tv@h0m3/230
+#EXTINF:-1 radio="False" tvg-id="MATCH!Futbol3" group-title="Спортни" tvg-logo="https://norbi-tv.ru/pro/wp-content/uploads/2019/10/matsh-fytbol-3hd-300x300.png",MATCH! Futbol 3 HD
+http://127.0.0.1:59311/tv@h0m3/231
+#EXTINF:-1 radio="False" tvg-id="MATCH!Premier" group-title="Спортни" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",MATCH! Premier HD
+http://127.0.0.1:59311/tv@h0m3/232
+#EXTINF:-1 radio="False" tvg-id="MATCH!Arena" group-title="Спортни" tvg-logo="https://ntvplus.tv/files/image/02/31/06/c11.png",MATCH! Arena HD
+http://127.0.0.1:59311/tv@h0m3/233
+#EXTINF:-1 radio="False" tvg-id="MATCH!Igra" group-title="Спортни" tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png",MATCH! Igra HD
+http://127.0.0.1:59311/tv@h0m3/234
+#EXTINF:-1 radio="False" tvg-id="MATCH!" group-title="Спортни" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/%D0%BC%D0%B0%D1%82%D1%87-%D1%82%D0%B2-png-2.png",MATCH! HD
+http://127.0.0.1:59311/tv@h0m3/235
+#EXTINF:-1 radio="False" tvg-id="MATCH!Strana" group-title="Спортни" tvg-logo="https://ntvplus.ru/files/image/07/92/25/hla.pngg",MATCH! Strana HD
+http://127.0.0.1:59311/tv@h0m3/236
+#EXTINF:-1 radio="False" tvg-id="KHLRU" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/f/f0/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9A%D0%A5%D0%9B.png",Telekanal KHL HD
+http://127.0.0.1:59311/tv@h0m3/237
+#EXTINF:-1 radio="False" tvg-id="Futbol1UA" group-title="Спортни" tvg-logo="https://tvnews.by/uploads/posts/2014-06/1402942693_original_F1-yellow-PL.png",Futbol 1 UKR
+http://127.0.0.1:59311/tv@h0m3/238
+#EXTINF:-1 radio="False" tvg-id="Futbol2UA" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/5/53/Football2_channel_ukr.png",Futbol 2 UKR
+http://127.0.0.1:59311/tv@h0m3/239
+#EXTINF:-1 radio="False" tvg-id="DAZN1HD" group-title="Спортни" tvg-logo="https://iptv.live/images/logo/channel/crops/f293020701bf2c24b3d91b1c8fcf97e9.png",DAZN 1 HD
+http://127.0.0.1:59311/tv@h0m3/244
+#EXTINF:-1 radio="False" tvg-id="DAZN2HD" group-title="Спортни" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png",DAZN 2 HD
+http://127.0.0.1:59311/tv@h0m3/245
+#EXTINF:-1 radio="False" tvg-id="PlanetSport1" group-title="Спортни" tvg-logo="https://sport-tv-guide.live/images/stations/a1517.png",Planet Sport 1 HD
+http://127.0.0.1:59311/tv@h0m3/246
+#EXTINF:-1 radio="False" tvg-id="PlanetSport2" group-title="Спортни" tvg-logo="https://sport-tv-guide.live/images/stations/a1518.png",Planet Sport 2 HD
+http://127.0.0.1:59311/tv@h0m3/247
+#EXTINF:-1 radio="False" tvg-id="PlanetSport3" group-title="Спортни" tvg-logo="https://sport-tv-guide.live/images/stations/a1519.png",Planet Sport 3 HD
+http://127.0.0.1:59311/tv@h0m3/248
+#EXTINF:-1 radio="False" tvg-id="SkySport1DE" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/1280px-Sky_Sport_1_HD_-_Logo_2015.svg.png",Sky Sport 1 DE
+http://127.0.0.1:59311/tv@h0m3/251
+#EXTINF:-1 radio="False" tvg-id="SkySport2DE" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1280px-Sky_Sport_2_-_Logo_2015.svg.png",Sky Sport 2 DE
+http://127.0.0.1:59311/tv@h0m3/252
+#EXTINF:-1 radio="False" tvg-id="" group-title="Спортни" tvg-logo="https://static1.squarespace.com/static/5a043b366957da157e2557c5/t/5e0d3787a72072138cbb11d2/1579646089276/sky-sports-news-3-logo-png-transparent.png?format=1500w",Sky Sport News DE
+http://127.0.0.1:59311/tv@h0m3/548
+#EXTINF:-1 radio="False" tvg-id="DIGISport1RO" group-title="Спортни" tvg-logo="https://i.dlpng.com/static/png/501135_preview.png",DIGI Sport 1 RO
+http://127.0.0.1:59311/tv@h0m3/254
+#EXTINF:-1 radio="False" tvg-id="DIGISport2RO" group-title="Спортни" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",DIGI Sport 2 RO
+http://127.0.0.1:59311/tv@h0m3/255
+#EXTINF:-1 radio="False" tvg-id="DIGISport3RO" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Digi_sport3_hu.png",DIGI Sport 3 RO
+http://127.0.0.1:59311/tv@h0m3/256
+#EXTINF:-1 radio="False" tvg-id="DIGISport4RO" group-title="Спортни" tvg-logo="https://home.pilsfree.cz/martin63/PilsFree%20IPTV/Kodi/Loga/Digi%20sport%204.png",DIGI Sport 4 RO
+http://127.0.0.1:59311/tv@h0m3/257
+#EXTINF:-1 radio="False" tvg-id="DIGISport1HU" group-title="Спортни" tvg-logo="https://i.dlpng.com/static/png/501135_preview.png",DIGI Sport 1 HU
+http://127.0.0.1:59311/tv@h0m3/258
+#EXTINF:-1 radio="False" tvg-id="DIGISport2HU" group-title="Спортни" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",DIGI Sport 2 HU
+http://127.0.0.1:59311/tv@h0m3/259
+#EXTINF:-1 radio="False" tvg-id="DIGISport3HU" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Digi_sport3_hu.png",DIGI Sport 3 HU
+http://127.0.0.1:59311/tv@h0m3/260
+#EXTINF:-1 radio="False" tvg-id="CANAL+SportPL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal%2B_Sport_PL_2009.png",CANAL+ Sport PL
+http://127.0.0.1:59311/tv@h0m3/261
+#EXTINF:-1 radio="False" tvg-id="CANAL+Sport2PL" group-title="Спортни" tvg-logo="https://www.dstvafrica.com/media/4737/canalplus-sport-2.png",CANAL+ Sport 2 PL
+http://127.0.0.1:59311/tv@h0m3/262
+#EXTINF:-1 radio="False" tvg-id="CANAL+Sport3PL" group-title="Спортни" tvg-logo="https://r-scale-d1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575902.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200",CANAL+ Sport 3 PL
+http://127.0.0.1:59311/tv@h0m3/263
+#EXTINF:-1 radio="False" tvg-id="CANAL+Sport4PL" group-title="Спортни" tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575905.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200",CANAL+ Sport 4 PL
+http://127.0.0.1:59311/tv@h0m3/264
+#EXTINF:-1 radio="False" tvg-id="MovistarDeportes" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",Movistar Deportes
+http://127.0.0.1:59311/tv@h0m3/265
+#EXTINF:-1 radio="False" tvg-id="MovistarF1" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1280px-Movistar_Formula_1.svg.png",Movistar Formula 1
+http://127.0.0.1:59311/tv@h0m3/266
+#EXTINF:-1 radio="False" tvg-id="MovistarFutbol" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1280px-Movistar_F%C3%BAtbol.svg.png",Movistar Futbol
+http://127.0.0.1:59311/tv@h0m3/267
+#EXTINF:-1 radio="False" tvg-id="MovistarGolf" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png",Movistar Golf
+http://127.0.0.1:59311/tv@h0m3/268
+#EXTINF:-1 radio="False" tvg-id="MovistarLaLiga" group-title="Спортни" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png",Movistar LaLiga
+http://127.0.0.1:59311/tv@h0m3/269
+#EXTINF:-1 radio="False" tvg-id="MovistarLigaDeCamp" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1024px-Movistar_Liga_de_Campeones.svg.png",Movistar Liga de Campeones
+http://127.0.0.1:59311/tv@h0m3/270
+#EXTINF:-1 radio="False" tvg-id="MovistarMotoGP" group-title="Спортни" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+motogp-01.png",Movistar MotoGP
+http://127.0.0.1:59311/tv@h0m3/272
+#EXTINF:-1 radio="False" tvg-id="" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NovaSport1.png/250px-NovaSport1.png",Nova Sport 1 HD CZ
+http://127.0.0.1:59311/tv@h0m3/528
+#EXTINF:-1 radio="False" tvg-id="" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/NovaSport2.png",Nova Sport 2 HD CZ
+http://127.0.0.1:59311/tv@h0m3/529
+#EXTINF:-1 radio="False" tvg-id="Sport1CZ" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport 1 CZ
+http://127.0.0.1:59311/tv@h0m3/274
+#EXTINF:-1 radio="False" tvg-id="Sport2CZ" group-title="Спортни" tvg-logo="https://home.pilsfree.net/chudy/tvx/32.png",Sport 2 CZ
+http://127.0.0.1:59311/tv@h0m3/275
+#EXTINF:-1 radio="False" tvg-id="Sport5CZ" group-title="Спортни" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/sport5.png",Sport 5 CZ
+http://127.0.0.1:59311/tv@h0m3/276
+#EXTINF:-1 radio="False" tvg-id="SportTV1PT" group-title="Спортни" tvg-logo="https://elitbasaranotel.com/images/23737301e4d2c6b9439b42486abad67a.png",Sport TV 1 PT
+http://127.0.0.1:59311/tv@h0m3/277
+#EXTINF:-1 radio="False" tvg-id="SportTV2PT" group-title="Спортни" tvg-logo="https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png",Sport TV 2 PT
+http://127.0.0.1:59311/tv@h0m3/278
+#EXTINF:-1 radio="False" tvg-id="SportTV3PT" group-title="Спортни" tvg-logo="hhttps://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png",Sport TV 3 PT
+http://127.0.0.1:59311/tv@h0m3/279
+#EXTINF:-1 radio="False" tvg-id="SportTV4PT" group-title="Спортни" tvg-logo="https://2.bp.blogspot.com/-_4R7rbEapTQ/V-D7yzArCrI/AAAAAAAAB_c/WGRuf74zvjUyyA70BYMxe2KQgwb-oN_fwCLcB/s1600/sport.tv4.png",Sport TV 4 PT
+http://127.0.0.1:59311/tv@h0m3/280
+#EXTINF:-1 radio="False" tvg-id="SportTV5PT" group-title="Спортни" tvg-logo="https://4.bp.blogspot.com/-1bfy5vanEGY/WsDjF2WOC_I/AAAAAAAAAE8/DpClCnT7A-cVOo9kPN0haU1w6fPGiD7wQCEwYBhgL/w1200-h630-p-k-no-nu/sporttv5.png",Sport TV 5 PT
+http://127.0.0.1:59311/tv@h0m3/281
+#EXTINF:-1 radio="False" tvg-id="ElevenSports1" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/ELEVEN-SPORTS-NETWORK-RGB.png",Eleven Sports 1
+http://127.0.0.1:59311/tv@h0m3/301
+#EXTINF:-1 radio="False" tvg-id="ElevenSports2" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/ELEVEN-SPORTS-NETWORK-RGB.png",Eleven Sports 2
+http://127.0.0.1:59311/tv@h0m3/302
+#EXTINF:-1 radio="False" tvg-id="ElevenSports3" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/ELEVEN-SPORTS-NETWORK-RGB.png",Eleven Sports 3
+http://127.0.0.1:59311/tv@h0m3/303
+#EXTINF:-1 radio="False" tvg-id="ElevenSports4" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/ELEVEN-SPORTS-NETWORK-RGB.png",Eleven Sports 4
+http://127.0.0.1:59311/tv@h0m3/304
+#EXTINF:-1 radio="False" tvg-id="FOXSports1NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png",FOX Sports 1 NL
+http://127.0.0.1:59311/tv@h0m3/305
+#EXTINF:-1 radio="False" tvg-id="FOXSports2NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX Sports 2 NL
+http://127.0.0.1:59311/tv@h0m3/306
+#EXTINF:-1 radio="False" tvg-id="FOXSports3NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX Sports 3 NL
+http://127.0.0.1:59311/tv@h0m3/307
+#EXTINF:-1 radio="False" tvg-id="FOXSports4NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX Sports 4 NL
+http://127.0.0.1:59311/tv@h0m3/308
+#EXTINF:-1 radio="False" tvg-id="FOXSports5NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX Sports 5 NL
+http://127.0.0.1:59311/tv@h0m3/309
+#EXTINF:-1 radio="False" tvg-id="FOXSports6NL" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX Sports 6 NL
+http://127.0.0.1:59311/tv@h0m3/310
+#EXTINF:-1 radio="False" tvg-id="CBCSport" group-title="Спортни" tvg-logo="https://ewsat.com/img/CBC_SPORT.png",CBC Sport HD
+http://127.0.0.1:59311/tv@h0m3/295
+#EXTINF:-1 radio="False" tvg-id="SuperTennis" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/1200px-SuperTennis_-_Logo_2016.svg.png",SuperTennis HD
+http://127.0.0.1:59311/tv@h0m3/297
+#EXTINF:-1 radio="False" tvg-id="RaiSport" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png",Rai Sport + HD / 1
+http://127.0.0.1:59311/tv@h0m3/298
+#EXTINF:-1 radio="False" tvg-id="Sport1DE" group-title="Спортни" tvg-logo="https://img.pngio.com/lead-start-up-to-lead-sport1-germany-png-2000_522.png",Sport 1 HD DE
+http://127.0.0.1:59311/tv@h0m3/299
+#EXTINF:-1 radio="False" tvg-id="ASPOR" group-title="Спортни" tvg-logo="https://www.parsatv.com/index_files/channels/aspor.png",A SPOR HD
+http://127.0.0.1:59311/tv@h0m3/300
+#EXTINF:-1 radio="False" tvg-id="ExtremeSports" group-title="Спортни" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/extreme-sports-channel-logo.png",Extreme Sports
+http://127.0.0.1:59311/tv@h0m3/284
+#EXTINF:-1 radio="False" tvg-id="FastnFunBoxHD" group-title="Спортни" tvg-logo="https://logos.kodibg.org/fastandfunbox.png",Fast&FunBox HD
+http://127.0.0.1:59311/tv@h0m3/286
+#EXTINF:-1 radio="False" tvg-id="Motorvision" group-title="Спортни" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png",Motorvision
+http://127.0.0.1:59311/tv@h0m3/287
+#EXTINF:-1 radio="False" tvg-id="FuelTVHD" group-title="Спортни" tvg-logo="https://tvnovini.bg/upload/articles/1233468_1461374814122986_4317811067188031685_n.png",Fuel TV HD
+http://127.0.0.1:59311/tv@h0m3/289
+#EXTINF:-1 radio="False" tvg-id="FightBox" group-title="Спортни" tvg-logo="https://logos.kodibg.org/fightbox.png",FightBox HD
+http://127.0.0.1:59311/tv@h0m3/290
+#EXTINF:-1 radio="False" tvg-id="FightNetwork" group-title="Спортни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
+http://127.0.0.1:59311/tv@h0m3/291
+#EXTINF:-1 radio="False" tvg-id="FightChannel" group-title="Спортни" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/c/c1/Fight_Channel.png/revision/latest/scale-to-width-down/340?cb=20191010154920&path-prefix=ru",Fight Channel
+http://127.0.0.1:59311/tv@h0m3/292
+#EXTINF:-1 radio="False" tvg-id="MATCHBoets" group-title="Спортни" tvg-logo="https://ntvplus.tv/files/image/02/31/28/3z9.png",MATCH! Boets HD
+http://127.0.0.1:59311/tv@h0m3/293
+#EXTINF:-1 radio="False" tvg-id="M1Global" group-title="Спортни" tvg-logo="https://www.varnalan.com/wp-content/uploads/2019/11/m1global.png",M-1 Global
+http://127.0.0.1:59311/tv@h0m3/296
+#EXTINF:-1 radio="False" tvg-id="Konnimir" group-title="Спортни" tvg-logo="https://ntvplus.ru/files/image/01/17/21/avs.png",Konnii mir
+http://127.0.0.1:59311/tv@h0m3/294
+#EXTINF:-1 radio="False" tvg-id="GameToon" group-title="Спортни" tvg-logo="http://logos.kodibg.org/gametoon.png",GameToon HD
+http://127.0.0.1:59311/tv@h0m3/311
+#EXTINF:-1 radio="False" tvg-id="GINXTV" group-title="Спортни" tvg-logo="https://logos.kodibg.org/ginx.png",GINX Esports HD
+http://127.0.0.1:59311/tv@h0m3/325
+#EXTINF:-1 radio="False" tvg-id="DaVinciLearning" group-title="Детски" tvg-logo="http://logos.kodibg.org/davincilearning.png",DaVinci Learning
+http://127.0.0.1:59311/tv@h0m3/69
+#EXTINF:-1 radio="False" tvg-id="Boomerang" group-title="Детски" tvg-logo="https://logos.kodibg.org/boomerang.png",Boomerang
+http://127.0.0.1:59311/tv@h0m3/312
+#EXTINF:-1 radio="False" tvg-id="Disney" group-title="Детски" tvg-logo="https://logos.kodibg.org/disney.png",Disney Channel
+http://127.0.0.1:59311/tv@h0m3/313
+#EXTINF:-1 radio="False" tvg-id="Nickelodeon" group-title="Детски" tvg-logo="https://logos.kodibg.org/nickelodeon.png",Nickelodeon
+http://127.0.0.1:59311/tv@h0m3/314
+#EXTINF:-1 radio="False" tvg-id="Nicktoons" group-title="Детски" tvg-logo="https://logos.kodibg.org/nicktoons.png",Nicktoons HD
+http://127.0.0.1:59311/tv@h0m3/315
+#EXTINF:-1 radio="False" tvg-id="CartoonNetwork" group-title="Детски" tvg-logo="https://logos.kodibg.org/cartoonnetwork.png",CN
+http://127.0.0.1:59311/tv@h0m3/316
+#EXTINF:-1 radio="False" tvg-id="DisneyJunior" group-title="Детски" tvg-logo="https://logos.kodibg.org/disneyjunior.png",Disney Junior
+http://127.0.0.1:59311/tv@h0m3/317
+#EXTINF:-1 radio="False" tvg-id="EKids" group-title="Детски" tvg-logo="https://logos.kodibg.org/ekids.png",EKids
+http://127.0.0.1:59311/tv@h0m3/403
+#EXTINF:-1 radio="False" tvg-id="FixFoxy" group-title="Детски" tvg-logo="https://logos.kodibg.org/fixfoxy.png",Fix&Foxi
+http://127.0.0.1:59311/tv@h0m3/318
+#EXTINF:-1 radio="False" tvg-id="NickJr" group-title="Детски" tvg-logo="https://logos.kodibg.org/nickjr.png",Nick Jr.
+http://127.0.0.1:59311/tv@h0m3/319
+#EXTINF:-1 radio="False" tvg-id="BabyTV" group-title="Детски" tvg-logo="https://logos.kodibg.org/babytv.png",Baby TV
+http://127.0.0.1:59311/tv@h0m3/320
+#EXTINF:-1 radio="False" tvg-id="DuckTVHD" group-title="Детски" tvg-logo="https://logos.kodibg.org/ducktv.png",Duck TV HD
+http://127.0.0.1:59311/tv@h0m3/321
+#EXTINF:-1 radio="False" tvg-id="DuckTV" group-title="Детски" tvg-logo="https://logos.kodibg.org/ducktv.png",Duck TV
+http://127.0.0.1:59311/tv@h0m3/322
+#EXTINF:-1 radio="False" tvg-id="JimJam" group-title="Детски" tvg-logo="https://logos.kodibg.org/jimjam.png",Jim Jam
+http://127.0.0.1:59311/tv@h0m3/323
+#EXTINF:-1 radio="False" tvg-id="CinemachiKids" group-title="Детски" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png",Cinemachi Kids
+http://127.0.0.1:59311/tv@h0m3/407
+#EXTINF:-1 radio="False" tvg-id="Boing" group-title="Детски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png",Boing!
+http://127.0.0.1:59311/tv@h0m3/326
+#EXTINF:-1 radio="False" tvg-id="Cartoonito" group-title="Детски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",Cartoonito
+http://127.0.0.1:59311/tv@h0m3/327
+#EXTINF:-1 radio="False" tvg-id="CNTR" group-title="Детски" tvg-logo="http://logos.kodibg.org/cartoonnetwork.png",CN TURK
+http://127.0.0.1:59311/tv@h0m3/328
+#EXTINF:-1 radio="False" tvg-id="ECTVForKids" group-title="Детски" tvg-logo="",ECTV for Kids HD
+http://127.0.0.1:59311/tv@h0m3/329
+#EXTINF:-1 radio="False" tvg-id="Tom&Jerry" group-title="Детски" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/looney-tunes-png-4.png",Looney Tunes PPV
+http://127.0.0.1:59311/tv@h0m3/330
+#EXTINF:-1 radio="False" tvg-id="" group-title="Детски" tvg-logo="https://toppng.com/uploads/preview/inky-pink-panther-11563599084tjrzrhcyyx.png",The Pink Panther
+http://127.0.0.1:59311/tv@h0m3/706
+#EXTINF:-1 radio="False" tvg-id="LooneyTunes" group-title="Детски" tvg-logo="https://i.pinimg.com/originals/f6/f9/bc/f6f9bc6c97bec3463107ecfc12914739.png",Tom&Jerry PPV
+http://127.0.0.1:59311/tv@h0m3/331
+#EXTINF:-1 radio="False" tvg-id="CodeFashion" group-title="Политематични" tvg-logo="https://logos.kodibg.org/codefashion.png",Code Fashion HD
+http://127.0.0.1:59311/tv@h0m3/381
+#EXTINF:-1 radio="False" tvg-id="TVPlus" group-title="Политематични" tvg-logo="https://logos.kodibg.org/tvplus.png",TV+
+http://127.0.0.1:59311/tv@h0m3/338
+#EXTINF:-1 radio="False" tvg-id="Skat" group-title="Политематични" tvg-logo="https://logos.kodibg.org/skat.png",SKAT
+http://127.0.0.1:59311/tv@h0m3/340
+#EXTINF:-1 radio="False" tvg-id="TV1" group-title="Политематични" tvg-logo="https://logos.kodibg.org/tv1.png",TV1 HD
+http://127.0.0.1:59311/tv@h0m3/361
+#EXTINF:-1 radio="False" tvg-id="Bloomberg" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bloomberg.png",Bloomberg TV Bulgaria HD
+http://127.0.0.1:59311/tv@h0m3/341
+#EXTINF:-1 radio="False" tvg-id="BULGARE" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bulgare.png",Bulgare HD
+http://127.0.0.1:59311/tv@h0m3/342
+#EXTINF:-1 radio="False" tvg-id="OtBlizoHD" group-title="Политематични" tvg-logo="https://logos.kodibg.org/otblizo.png",Otblizo HD
+http://127.0.0.1:59311/tv@h0m3/414
+#EXTINF:-1 radio="False" tvg-id="VTK" group-title="Политематични" tvg-logo="https://logos.kodibg.org/vtk.png",VTK
+http://127.0.0.1:59311/tv@h0m3/343
+#EXTINF:-1 radio="False" tvg-id="BSTV" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bstv.png",BSTV HD
+http://127.0.0.1:59311/tv@h0m3/365
+#EXTINF:-1 radio="False" tvg-id="AgroTV" group-title="Политематични" tvg-logo="https://logos.kodibg.org/agrotv.png",Agro TV
+http://127.0.0.1:59311/tv@h0m3/344
+#EXTINF:-1 radio="False" tvg-id="Alfa" group-title="Политематични" tvg-logo="https://logos.kodibg.org/alfa.png",Alfa TV
+http://127.0.0.1:59311/tv@h0m3/345
+#EXTINF:-1 radio="False" tvg-id="BNP" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bnp.png",BNP TV
+http://127.0.0.1:59311/tv@h0m3/346
+#EXTINF:-1 radio="False" tvg-id="BHTV" group-title="Политематични" tvg-logo="https://logos.kodibg.org/bhtv.png",BHTV
+http://127.0.0.1:59311/tv@h0m3/347
+#EXTINF:-1 radio="False" tvg-id="Stoichev" group-title="Ре" tvg-logo="https://lh3.googleusercontent.com/proxy/gU1K4A_-WC8IHsPdn4XFDlSzQGZ_ktldlDLFOGhQe4rqXIj_gOXgqkFcxjpmv7GC-zGmYLJudLmwbXR6gtnRs4P-HIh0jdlNJx0wohcivKuZqQ",Stoichev TV
+http://127.0.0.1:59311/tv@h0m3/348
+#EXTINF:-1 radio="False" tvg-id="PPTV" group-title="Регионални" tvg-logo="https://logos.kodibg.org/pptv.png",PPTV
+http://127.0.0.1:59311/tv@h0m3/373
+#EXTINF:-1 radio="False" tvg-id="KanalRila" group-title="Регионални" tvg-logo="https://www.cem.bg/files/141448703067057.jpg",Kanal Rila
+http://127.0.0.1:59311/tv@h0m3/349
+#EXTINF:-1 radio="False" tvg-id="TVVarna" group-title="Регионални" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/tv_varna-1.png",TV Varna
+http://127.0.0.1:59311/tv@h0m3/350
+#EXTINF:-1 radio="False" tvg-id="SkatPlus" group-title="Регионални" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/skatplus.png",SKAT+
+http://127.0.0.1:59311/tv@h0m3/351
+#EXTINF:-1 radio="False" tvg-id="TVDarts" group-title="Регионални" tvg-logo="https://logos.kodibg.org/alfa.png",TVDarts
+http://127.0.0.1:59311/tv@h0m3/352
+#EXTINF:-1 radio="False" tvg-id="TVClub2000" group-title="Регионални" tvg-logo="",TV Club 2000
+http://127.0.0.1:59311/tv@h0m3/353
+#EXTINF:-1 radio="False" tvg-id="EKCarevec" group-title="Регионални" tvg-logo="https://mallvt.bg/uploads/shops/ewrokom_300x200px.png",EK Carevec
+http://127.0.0.1:59311/tv@h0m3/354
+#EXTINF:-1 radio="False" tvg-id="KanalFokus" group-title="Регионални" tvg-logo="https://i.imgur.com/1I2Idmc.jpg",Kanal Fokus
+http://127.0.0.1:59311/tv@h0m3/355
+#EXTINF:-1 radio="False" tvg-id="VideosatTV" group-title="Регионални" tvg-logo="https://i.imgur.com/aGus6XX.jpg",Videosat TV
+http://127.0.0.1:59311/tv@h0m3/356
+#EXTINF:-1 radio="False" tvg-id="BulsatInfoChannel" group-title="Регионални" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Bulsatcom.svg/1280px-Bulsatcom.svg.png",Bulsat Info Channel
+http://127.0.0.1:59311/tv@h0m3/384
+#EXTINF:-1 radio="False" tvg-id="GDN" group-title="Регионални" tvg-logo="https://lh3.googleusercontent.com/proxy/FfLdPf-tCX8yr6dj_mz8c6uZanZ9UoB13_agISXUw8kTvrJcie7o054KRyklqHojtQnSG1I8gqk",GDN Info
+http://127.0.0.1:59311/tv@h0m3/357
+#EXTINF:-1 radio="False" tvg-id="NetGuard" group-title="Регионални" tvg-logo="https://www.netguard.bg/templates/netguard/images/NETGUARD-logo-Small-Back.jpg",NetGuard TV HD
+http://127.0.0.1:59311/tv@h0m3/420
+#EXTINF:-1 radio="False" tvg-id="Trakiq" group-title="Регионални" tvg-logo="https://logos.kodibg.org/potv.png",POTV
+http://127.0.0.1:59311/tv@h0m3/358
+#EXTINF:-1 radio="False" tvg-id="Vratza" group-title="Регионални" tvg-logo="https://logos.kodibg.org/vratza.png",TV Vratsa
+http://127.0.0.1:59311/tv@h0m3/359
+#EXTINF:-1 radio="False" tvg-id="ETA" group-title="Регионални" tvg-logo="https://i.imgur.com/z48enUy.png",ETA TV
+http://127.0.0.1:59311/tv@h0m3/360
+#EXTINF:-1 radio="False" tvg-id="ZTV" group-title="Регионални" tvg-logo="https://zetramedia.com/wp-content/uploads/2014/01/LOGO-ZTV.jpg",Zetra TV
+http://127.0.0.1:59311/tv@h0m3/362
+#EXTINF:-1 radio="False" tvg-id="Kiss13" group-title="Регионални" tvg-logo="https://logos.kodibg.org/kiss13.png",Kiss 13
+http://127.0.0.1:59311/tv@h0m3/364
+#EXTINF:-1 radio="False" tvg-id="DianaKabel" group-title="Регионални" tvg-logo="https://dk-tv.com/wp-content/uploads/2019/05/DTV-Logo-Blue.png",Diana Kabel
+http://127.0.0.1:59311/tv@h0m3/427
+#EXTINF:-1 radio="False" tvg-id="KrakraTV" group-title="Регионални" tvg-logo="https://telepoint.bg/img/frontpage/logos/18/Krakra.jpg",Krakra TV
+http://127.0.0.1:59311/tv@h0m3/366
+#EXTINF:-1 radio="False" tvg-id="Rimeks" group-title="Регионални" tvg-logo="https://logos.kodibg.org/rimeks.png",Rimex TV
+http://127.0.0.1:59311/tv@h0m3/367
+#EXTINF:-1 radio="False" tvg-id="TVZapad" group-title="Регионални" tvg-logo="https://tvzapad.bg/wp-content/uploads/2019/01/TVZ-badge.png",TV Zapad
+http://127.0.0.1:59311/tv@h0m3/368
+#EXTINF:-1 radio="False" tvg-id="Shumen" group-title="Регионални" tvg-logo="https://logos.kodibg.org/tvshumen.png",TV Shumen
+http://127.0.0.1:59311/tv@h0m3/369
+#EXTINF:-1 radio="False" tvg-id="Kanal6Sliven" group-title="Регионални" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-kanal-6-1667.jpg",Kanal 6 Sliven
+http://127.0.0.1:59311/tv@h0m3/402
+#EXTINF:-1 radio="False" tvg-id="TVSTZ" group-title="Регионални" tvg-logo="https://logos.kodibg.org/tvstz.png",TV Stara Zagora
+http://127.0.0.1:59311/tv@h0m3/370
+#EXTINF:-1 radio="False" tvg-id="TVZagora" group-title="Регионални" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TV_Zagora_logo.gif",TV Zagora
+http://127.0.0.1:59311/tv@h0m3/371
+#EXTINF:-1 radio="False" tvg-id="Kanal0" group-title="Регионални" tvg-logo="https://logos.kodibg.org/kanal0.png",Kanal 0
+http://127.0.0.1:59311/tv@h0m3/372
+#EXTINF:-1 radio="False" tvg-id="TVVidin" group-title="Регионални" tvg-logo="https://logos.kodibg.org/tvv.png",TV Vidin
+http://127.0.0.1:59311/tv@h0m3/374
+#EXTINF:-1 radio="False" tvg-id="TvoetoInfoTV" group-title="Регионални" tvg-logo="",Tvoeto Info TV
+http://127.0.0.1:59311/tv@h0m3/376
+#EXTINF:-1 radio="False" tvg-id="" group-title="Музикални" tvg-logo="",Kurdzhali
+http://127.0.0.1:59311/tv@h0m3/705
+#EXTINF:-1 radio="False" tvg-id="BNT1+1" group-title="Български" tvg-logo="https://logos.kodibg.org/bnt1.png",BNT 1 +1
+http://127.0.0.1:59311/tv@h0m3/390
+#EXTINF:-1 radio="False" tvg-id="BNT1+2" group-title="Български" tvg-logo="https://logos.kodibg.org/bnt1.png",BNT 1 +2
+http://127.0.0.1:59311/tv@h0m3/391
+#EXTINF:-1 radio="False" tvg-id="bTV+1" group-title="Български" tvg-logo="https://networx.bg/img/tv_logos/btv1.svg",bTV +1
+http://127.0.0.1:59311/tv@h0m3/392
+#EXTINF:-1 radio="False" tvg-id="bTV+2" group-title="Български" tvg-logo="https://networx.bg/img/tv_logos/btv2.svg",bTV +2
+http://127.0.0.1:59311/tv@h0m3/393
+#EXTINF:-1 radio="False" tvg-id="NOVA+1" group-title="Български" tvg-logo="https://networx.bg/img/tv_logos/nova1.svg",NOVA +1
+http://127.0.0.1:59311/tv@h0m3/394
+#EXTINF:-1 radio="False" tvg-id="NOVA+2" group-title="Български" tvg-logo="https://networx.bg/img/tv_logos/nova2.svg",NOVA +2
+http://127.0.0.1:59311/tv@h0m3/395
+#EXTINF:-1 radio="False" tvg-id="BNT3HD+1" group-title="Български" tvg-logo="http://logos.kodibg.org/bnt3.png",BNT 3 HD +1
+http://127.0.0.1:59311/tv@h0m3/396
+#EXTINF:-1 radio="False" tvg-id="BNT3HD+12" group-title="Български" tvg-logo="http://logos.kodibg.org/bnt3.png",BNT 3 HD +12
+http://127.0.0.1:59311/tv@h0m3/397
+#EXTINF:-1 radio="False" tvg-id="bTVComedy+1" group-title="Български" tvg-logo="https://logos.kodibg.org/btvcomedy.png",bTV Comedy +1
+http://127.0.0.1:59311/tv@h0m3/399
+#EXTINF:-1 radio="False" tvg-id="HBO+1" group-title="Български" tvg-logo="https://logos.kodibg.org/hbohd.png",HBO +1
+http://127.0.0.1:59311/tv@h0m3/398
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://lh3.googleusercontent.com/proxy/6c7iZ08YifqCW_97kYwrX1A4DYmO4Uv-dn1Trg9inywFCgvIH5Xz-H7nJ7OqQ2rBuA0NbH4G2oj54Xefyb1g3yZVDuqYYF6eK5UaXQv8zE-GxA",Just For Laughs
+http://127.0.0.1:59311/tv@h0m3/701
+#EXTINF:-1 radio="False" tvg-id="EnglishClubTV" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/englishclubtv.png",English Club HD
+http://127.0.0.1:59311/tv@h0m3/435
+#EXTINF:-1 radio="False" tvg-id="FilmboxArthouseHD" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/filmboxarthouse.png",FilmBox Arthouse
+http://127.0.0.1:59311/tv@h0m3/433
+#EXTINF:-1 radio="False" tvg-id="NASATV" group-title="Развлекателни" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA TV HD
+http://127.0.0.1:59311/tv@h0m3/434
+#EXTINF:-1 radio="False" tvg-id="NASATV" group-title="Развлекателни" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/8/82/Galaxy_TV_2.png/revision/latest/scale-to-width-down/340?cb=20160902133709&path-prefix=ru",GALAXY HD
+http://127.0.0.1:59311/tv@h0m3/569
+#EXTINF:-1 radio="False" tvg-id="DeluxeLoungeHD" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/deluxeloungehd.png",Deluxe Lounge HD
+http://127.0.0.1:59311/tv@h0m3/432
+#EXTINF:-1 radio="False" tvg-id="DeluxeLoungeHD" group-title="Развлекателни" tvg-logo="",Landscape HD
+http://127.0.0.1:59311/tv@h0m3/570
+#EXTINF:-1 radio="False" tvg-id="Outdoor" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/outdoor.png",Outdoor HD
+http://127.0.0.1:59311/tv@h0m3/579
+#EXTINF:-1 radio="False" tvg-id="LuxeTV" group-title="Развлекателни" tvg-logo="https://lh3.googleusercontent.com/proxy/HDWJ5nXRlZ2IemYict8Ch9UcoNBp0tLDJs3VKmVyd7iAO3FGvG_TnTowDigDtfX3N6oM9Ruk8W50KaXg8u5E69nzl4e93MZTbqqf3t6pvtAcU9G0muplERT6Iy3B2mHRTg",Luxe TV HD
+http://127.0.0.1:59311/tv@h0m3/443
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png",myZen.tv HD
+http://127.0.0.1:59311/tv@h0m3/524
+#EXTINF:-1 radio="False" tvg-id="MarcoPoloTV" group-title="Развлекателни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Marco_Polo_TV.png",Marco Polo TV
+http://127.0.0.1:59311/tv@h0m3/444
+#EXTINF:-1 radio="False" tvg-id="CNC" group-title="Развлекателни" tvg-logo="https://www.nettv.live/uploads/18/1-1P310155545914.jpg",CNC World English HD
+http://127.0.0.1:59311/tv@h0m3/462
+#EXTINF:-1 radio="False" tvg-id="Nautical" group-title="Развлекателни" tvg-logo="https://pbs.twimg.com/profile_images/1258721102504878080/zxfeQ8Pg_400x400.jpg",Nautical Channel HD
+http://127.0.0.1:59311/tv@h0m3/464
+#EXTINF:-1 radio="False" tvg-id="Insight" group-title="Развлекателни" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png",Insight TV HD
+http://127.0.0.1:59311/tv@h0m3/471
+#EXTINF:-1 radio="False" tvg-id="ervusTV" group-title="Развлекателни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/1024px-ServusTV_Logo.png",Servus TV HD
+http://127.0.0.1:59311/tv@h0m3/469
+#EXTINF:-1 radio="False" tvg-id="LuxeLife" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/luxe-life.png",Luxe & Life HD
+http://127.0.0.1:59311/tv@h0m3/405
+#EXTINF:-1 radio="False" tvg-id="Cinemachi" group-title="Филмови" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi.png",Cinemachi HD
+http://127.0.0.1:59311/tv@h0m3/406
+#EXTINF:-1 radio="False" tvg-id="PetPal" group-title="Документални" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/pet-pal.png",Pet & Pal HD
+http://127.0.0.1:59311/tv@h0m3/409
+#EXTINF:-1 radio="False" tvg-id="Smilie" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/smilie.png",Smile HD
+http://127.0.0.1:59311/tv@h0m3/410
+#EXTINF:-1 radio="False" tvg-id="FTVHD" group-title="Развлекателни" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",Fashion TV HD
+http://127.0.0.1:59311/tv@h0m3/438
+#EXTINF:-1 radio="False" tvg-id="FashionTV" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/fashiontv.png",Fashion TV
+http://127.0.0.1:59311/tv@h0m3/441
+#EXTINF:-1 radio="False" tvg-id="FashionOneHD" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/fashiononehd.png",Fashion One HD
+http://127.0.0.1:59311/tv@h0m3/439
+#EXTINF:-1 radio="False" tvg-id="FashionBox" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/fashionbox.png",FashionBox HD
+http://127.0.0.1:59311/tv@h0m3/440
+#EXTINF:-1 radio="False" tvg-id="WorldFashionChannel" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/worldfashionchannel.png",World Fashion Channel
+http://127.0.0.1:59311/tv@h0m3/442
+#EXTINF:-1 radio="False" tvg-id="E!" group-title="Развлекателни" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png",E! Entertaiment
+http://127.0.0.1:59311/tv@h0m3/445
+#EXTINF:-1 radio="False" tvg-id="E!" group-title="Развлекателни" tvg-logo="https://images.squarespace-cdn.com/content/v1/59a9e8b4e4fcb5c602917bc0/1512087400389-UTDF0XZ8U1AV7K8BWKKQ/ke17ZwdGBToddI8pDm48kEEXJqT6UZzo6_T_IEtk8lR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UczENqjGi06s9wEQCnHDJzOWQBIE3BchO9-ZFyrxVDTT7zs2yPjc1ECvpa5Zm_kMqw/spiketv_2400_color_light.png",Spike
+http://127.0.0.1:59311/tv@h0m3/543
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://concoursmondial.com/wp-content/uploads/Wine-TV-Logo.png?_t=1589969769",Wine TV
+http://127.0.0.1:59311/tv@h0m3/566
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
+http://127.0.0.1:59311/tv@h0m3/695
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.pngkit.com/png/full/442-4421296_uhd-lyngsat-logo-the-nasa-uhd-logo-png.png",NASA TV UHD
+http://127.0.0.1:59311/tv@h0m3/527
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://radicalmovespr.com/wp-content/uploads/2017/03/Accedo-4KUniverse.png",4K Universe
+http://127.0.0.1:59311/tv@h0m3/692
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.cableman.ru/sites/default/files/travelxp4k.png",Travel XP 4K
+http://127.0.0.1:59311/tv@h0m3/513
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://seeklogo.com/images/F/ftvuhd-logo-CE02F5C445-seeklogo.com.png",FTV UHD
+http://127.0.0.1:59311/tv@h0m3/514
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",WOW 4K
+http://127.0.0.1:59311/tv@h0m3/571
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/partys-4k.png",Partys 4K
+http://127.0.0.1:59311/tv@h0m3/572
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/pet-pal-4k.png",Pet & Pal 4K
+http://127.0.0.1:59311/tv@h0m3/573
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/speed-factor-4k.png",Speed Factor 4K
+http://127.0.0.1:59311/tv@h0m3/574
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/chillayo-4k.png",Chillayo 4K
+http://127.0.0.1:59311/tv@h0m3/578
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.ewsat.com/img/TRT.png",TRT 4K
+http://127.0.0.1:59311/tv@h0m3/679
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.audiovision.de/wp-content/uploads/2015/12/uhd.jpg",UHD by ASTRA / HD+
+http://127.0.0.1:59311/tv@h0m3/680
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://displaydaily.com/images/SES_logo.png",SES UHD Demo Channel
+http://127.0.0.1:59311/tv@h0m3/681
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.dwdl.de/images/1524643929_rtl-uhd.jpg",RTL UHD
+http://127.0.0.1:59311/tv@h0m3/682
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/09/QVC2-UHD.jpg?fit=392%2C387&ssl=1&resize=350%2C200",QVC ZWEI UHD
+http://127.0.0.1:59311/tv@h0m3/683
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/07/QVC_UHD.png?resize=300%2C206&ssl=1",QVC UHD
+http://127.0.0.1:59311/tv@h0m3/684
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.astra2sat.com/wp-content/uploads/2016/03/UHD1-by-Astra-HD.jpg",Astra UHD Demo
+http://127.0.0.1:59311/tv@h0m3/685
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://lh3.googleusercontent.com/proxy/FmaI6G0KThlQq_SsytpWMt1eqQDZz3a--i7bq1q6j3NUoIWfiFLX8af13XXajTegeoouP9zrBGq-3yskuqUv5OYG65SqL8uIb98UoKCNZvBkfuMY",Eurosport 4K
+http://127.0.0.1:59311/tv@h0m3/686
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://i.imgur.com/X4Ekwhb.jpg",Museum 4K
+http://127.0.0.1:59311/tv@h0m3/687
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://lh3.googleusercontent.com/proxy/9b17FuH94eIU7a7k5X5d_6mO6gInE0H1gA6tLNXB2HE5xa5_j6ODKUgD81yZ5pFmzEyfmXtUykBM6L4",Home 4K
+http://127.0.0.1:59311/tv@h0m3/696
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/10/MyZen-TV-4K-2.png?fit=700%2C642&ssl=1",myZen 4K
+http://127.0.0.1:59311/tv@h0m3/688
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://informitv.com/wordpress/wp-content/uploads/2019/02/RAI4K.png",Rai 4K
+http://127.0.0.1:59311/tv@h0m3/689
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.cableman.ru/sites/default/files/ultra_hd_cinema.png?1539781770",Ultra HD Cinema
+http://127.0.0.1:59311/tv@h0m3/690
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://www.cableman.ru/sites/default/files/ultra_rex_logo.png?1573642200",Ultra Rex
+http://127.0.0.1:59311/tv@h0m3/691
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal%2B_4K_Ultra_HD.svg/revision/latest/scale-to-width-down/340?cb=20191215194841",CANAL 4K ULTRA HD
+http://127.0.0.1:59311/tv@h0m3/693
+#EXTINF:-1 radio="False" tvg-id="" group-title="Развлекателни" tvg-logo="https://tvepg.eu/img/switzerland/logo/stingray_festival_4k.png",Stingray Festival 4K
+http://127.0.0.1:59311/tv@h0m3/694
+#EXTINF:-1 radio="False" tvg-id="CNN" group-title="Новини" tvg-logo="https://logos.kodibg.org/cnn.png",CNN HD
+http://127.0.0.1:59311/tv@h0m3/446
+#EXTINF:-1 radio="False" tvg-id="DeutscheWelle" group-title="Новини" tvg-logo="https://logos.kodibg.org/deutschewelle.png",DW English HD
+http://127.0.0.1:59311/tv@h0m3/447
+#EXTINF:-1 radio="False" tvg-id="BBC" group-title="Новини" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png",BBC World News HD
+http://127.0.0.1:59311/tv@h0m3/449
+#EXTINF:-1 radio="False" tvg-id="EuroNews" group-title="Новини" tvg-logo="https://logos.kodibg.org/euronews.png",Euronews HD
+http://127.0.0.1:59311/tv@h0m3/450
+#EXTINF:-1 radio="False" tvg-id="France24EN" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.pngg",France 24 English HD
+http://127.0.0.1:59311/tv@h0m3/451
+#EXTINF:-1 radio="False" tvg-id="AlJazeera" group-title="Новини" tvg-logo="https://logos.kodibg.org/aljazeera.png",Al Jazeera English HD
+http://127.0.0.1:59311/tv@h0m3/453
+#EXTINF:-1 radio="False" tvg-id="AlJazeeraBalkans" group-title="Новини" tvg-logo="https://logos.kodibg.org/aljazeera.png",Al Jazeera Balkans HD
+http://127.0.0.1:59311/tv@h0m3/454
+#EXTINF:-1 radio="False" tvg-id="CNBC" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC HD
+http://127.0.0.1:59311/tv@h0m3/455
+#EXTINF:-1 radio="False" tvg-id="CGTN" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",CGTN HD
+http://127.0.0.1:59311/tv@h0m3/456
+#EXTINF:-1 radio="False" tvg-id="BloombergEU" group-title="Новини" tvg-logo="https://images.squarespace-cdn.com/content/v1/5caae4de7fdcb875366c5b6c/1584538298218-OBV2H4I56WXXEJU4488V/ke17ZwdGBToddI8pDm48kKU0a5XC3H-m-B4U89ami1FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PILXd3KWhlPbnnYH02tpFFk0wP1TjgUFFHv_uA80oV3C8/Bloomberg.png",Bloomberg HD
+http://127.0.0.1:59311/tv@h0m3/457
+#EXTINF:-1 radio="False" tvg-id="SkyNews" group-title="Новини" tvg-logo="https://news.sky.com/assets/sky-news-logo.png",Sky News
+http://127.0.0.1:59311/tv@h0m3/458
+#EXTINF:-1 radio="False" tvg-id="Arirang" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang HD
+http://127.0.0.1:59311/tv@h0m3/461
+#EXTINF:-1 radio="False" tvg-id="NKWorld" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png",NHK World HD
+http://127.0.0.1:59311/tv@h0m3/465
+#EXTINF:-1 radio="False" tvg-id="PressTV" group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1200px-Press_Tv_logo.svg.png",PRESS TV HD
+http://127.0.0.1:59311/tv@h0m3/467
+#EXTINF:-1 radio="False" tvg-id="RussiaToday" group-title="Новини" tvg-logo="https://logos.kodibg.org/russiatoday.png",Russia Today HD
+http://127.0.0.1:59311/tv@h0m3/468
+#EXTINF:-1 radio="False" tvg-id="RTDoc" group-title="Документални" tvg-logo="https://logos.kodibg.org/rtdoc.png",RT Doc HD
+http://127.0.0.1:59311/tv@h0m3/540
+#EXTINF:-1 radio="False" tvg-id="TRTWorld" group-title="Новини" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png",TRT World HD
+http://127.0.0.1:59311/tv@h0m3/470
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/ITV1_logo.svg/revision/latest/scale-to-width-down/340?cb=20091103144244",ITV1 UK
+http://127.0.0.1:59311/tv@h0m3/474
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha-TV-Logo.png",ALPHA HD
+http://127.0.0.1:59311/tv@h0m3/586
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png",ANT1 HD
+http://127.0.0.1:59311/tv@h0m3/587
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Star_Channel_Greece_logo.svg/1200px-Star_Channel_Greece_logo.svg.png",STAR HD
+http://127.0.0.1:59311/tv@h0m3/588
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png",SKAI HD
+http://127.0.0.1:59311/tv@h0m3/589
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://megahr.weebly.com/uploads/2/4/0/2/24021748/665493_orig.png",MEGA
+http://127.0.0.1:59311/tv@h0m3/590
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Open_Beyond_TV_Transparent.png/revision/latest?cb=20181204104222",OPEN BEYOND HD
+http://127.0.0.1:59311/tv@h0m3/591
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png",M.tv HD
+http://127.0.0.1:59311/tv@h0m3/593
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png",ERT1
+http://127.0.0.1:59311/tv@h0m3/581
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png",ERT2
+http://127.0.0.1:59311/tv@h0m3/582
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png",ERT3
+http://127.0.0.1:59311/tv@h0m3/583
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png",ERT World
+http://127.0.0.1:59311/tv@h0m3/584
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/VouliTileorasi.png",Voulti
+http://127.0.0.1:59311/tv@h0m3/592
+#EXTINF:-1 radio="False" tvg-id="" group-title="Гръцки" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RIKnewlogo.png",PIK
+http://127.0.0.1:59311/tv@h0m3/594
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://pluspng.com/img-png/itv2-hd-logo-png-image-itv2-2015-blue-colored-gradient-png-logopedia-fandom-powered-by-2000.png",ITV2 UK
+http://127.0.0.1:59311/tv@h0m3/475
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c3/ITV3_2013.svg/revision/latest/scale-to-width-down/340?cb=20200207163158",ITV3 UK
+http://127.0.0.1:59311/tv@h0m3/476
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4 UK
+http://127.0.0.1:59311/tv@h0m3/477
+#EXTINF:-1 radio="False" tvg-id="BBC1" group-title="Английски" tvg-logo="https://logos.kodibg.org/bbc1.png",BBC1 UK
+http://127.0.0.1:59311/tv@h0m3/478
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/BBC_Two_square-less_logo.png/revision/latest?cb=20150129145727",BBC2 UK
+http://127.0.0.1:59311/tv@h0m3/479
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/BBC_Three_logo.svg/1200px-BBC_Three_logo.svg.png",BBC3 UK
+http://127.0.0.1:59311/tv@h0m3/480
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/BBC-Four-Watch-online-live.png",BBC4 UK
+http://127.0.0.1:59311/tv@h0m3/481
+#EXTINF:-1 radio="False" tvg-id="" group-title="Английски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TRACE_Vault_Logo.png",Trace Vault UK
+http://127.0.0.1:59311/tv@h0m3/482
+#EXTINF:-1 radio="False" tvg-id="PerviyKanal" group-title="Руски" tvg-logo="https://logos.kodibg.org/perviykanal.png",Perviy kanal HD
+http://127.0.0.1:59311/tv@h0m3/490
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://ntvplus.ru/files/image/00/00/53/f13.png",Rossia 1 HD
+http://127.0.0.1:59311/tv@h0m3/491
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Russia-24.png",Rossia 24
+http://127.0.0.1:59311/tv@h0m3/492
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/1200px-Russia-Cultura.svg.png",Rossia K
+http://127.0.0.1:59311/tv@h0m3/493
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1200px-NTV_MIR.svg.png",NTV Mir
+http://127.0.0.1:59311/tv@h0m3/494
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://seeklogo.com/images/R/rtvi-logo-343E1F47B4-seeklogo.com.png",RTVi
+http://127.0.0.1:59311/tv@h0m3/495
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/%D0%9D%D0%B0%D1%88%D0%B5_%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_%282009%2C_%D0%BC%D0%BE%D0%BD%D0%BE%29.png/",Nashe kino
+http://127.0.0.1:59311/tv@h0m3/496
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://ewsat.com/img/DOM_KINO.png",Dom kino
+http://127.0.0.1:59311/tv@h0m3/497
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/detski_mir.png",Detskii mir
+http://127.0.0.1:59311/tv@h0m3/498
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D1%84%D0%B5_%282018%29.png",Telecafe
+http://127.0.0.1:59311/tv@h0m3/499
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://seeklogo.com/images/R/ren-tv-logo-D14CDAAADF-seeklogo.com.png",REN TV
+http://127.0.0.1:59311/tv@h0m3/500
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png",Domashnij Int
+http://127.0.0.1:59311/tv@h0m3/501
+#EXTINF:-1 radio="False" tvg-id="Ribalka" group-title="Руски" tvg-logo="http://logos.kodibg.org/ribalka.png",Ohota i ribalka
+http://127.0.0.1:59311/tv@h0m3/431
+#EXTINF:-1 radio="False" tvg-id="RTGHD" group-title="Руски" tvg-logo="https://cnt-orel-itv02.svc.iptv.rt.ru/sdp/ct/nclogo1523869837084.png",RTG HD
+http://127.0.0.1:59311/tv@h0m3/459
+#EXTINF:-1 radio="False" tvg-id="RTGInt" group-title="Руски" tvg-logo="https://lh3.googleusercontent.com/proxy/mokPmD9-XUfDKzxRJdZ9mY7LiSj1lJEH0lmgqYou_qo-GTaDYOEn1rmGm6JZ8BUnsNk49_XBTqcBagf9zAywW___7DFiOyIhMtZt4Cx8",RTG Int.
+http://127.0.0.1:59311/tv@h0m3/460
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Karusel_2019.svg/revision/latest/scale-to-width-down/340?cb=20200101143529",Karusel
+http://127.0.0.1:59311/tv@h0m3/517
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%282015-%D0%BD.%D0%B2%29.png/revision/latest?cb=20160616183807",Muzyka
+http://127.0.0.1:59311/tv@h0m3/523
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/0/08/%D0%9F%D0%B5%D1%80%D0%B5%D1%86.png/revision/latest/scale-to-width-down/340?cb=20120127183537&path-prefix=ru",Peretz
+http://127.0.0.1:59311/tv@h0m3/531
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://n-w.tv/wp-content/themes/nmtv_new/img/logo_28-10-2019.png",Noviy Mir
+http://127.0.0.1:59311/tv@h0m3/532
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://shanson.tv/i/logo_191112.png",Shanson TV
+http://127.0.0.1:59311/tv@h0m3/546
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png/1200px-Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",STS Int.
+http://127.0.0.1:59311/tv@h0m3/549
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://lh3.googleusercontent.com/proxy/yebtklOKlvaJrD-PP11wYZblY8cQV4oJvawgds10qNa2vcO_5MHzgCAoB5NG9DCpcEcuFxtDjbDCVuOdFGsmn3Ie7ZNTun7o2Cu8F2X8ImISSA",THT4 (Comedy).
+http://127.0.0.1:59311/tv@h0m3/551
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/TNT_Russia_2019_logo.png",THT HD
+http://127.0.0.1:59311/tv@h0m3/552
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/tv_centr.png",TV Centr
+http://127.0.0.1:59311/tv@h0m3/555
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/TV-3_logo_%282015%29.png",TB3 RU
+http://127.0.0.1:59311/tv@h0m3/556
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://i.otzovik.com/objects/b/1310000/1305917.png",Vremya
+http://127.0.0.1:59311/tv@h0m3/565
+#EXTINF:-1 radio="False" tvg-id="" group-title="Руски" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/8/89/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE_24_%28%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.png/revision/latest/scale-to-width-down/340?cb=20150119063527&path-prefix=ru",24 TEXHO
+http://127.0.0.1:59311/tv@h0m3/575
+#EXTINF:-1 radio="False" tvg-id="France24FR" group-title="Френски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.pngg",France 24 French HD
+http://127.0.0.1:59311/tv@h0m3/452
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/France_2_2018_%28icon%29.svg/revision/latest/scale-to-width-down/340?cb=20180202215853",France 2 HD
+http://127.0.0.1:59311/tv@h0m3/483
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2018/01/france_3_logo_rvb_3_couleur_noir-crop-1-300x239.png",France 3 HD
+http://127.0.0.1:59311/tv@h0m3/484
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/France_4_2018_%28icon%29.svg/revision/latest/scale-to-width-down/340?cb=20180202220502",France 4 HD
+http://127.0.0.1:59311/tv@h0m3/485
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/France_4_2018_%28icon%29.svg/revision/latest/scale-to-width-down/340?cb=20180202220502",France 5 HD
+http://127.0.0.1:59311/tv@h0m3/486
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://i.pinimg.com/originals/fb/61/c9/fb61c9a4dbf7a8022e17e15138868dff.png",TV5MONDE EUROPE
+http://127.0.0.1:59311/tv@h0m3/557
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TV5-France-Belgique-Suisse-Logo.svg",TV5MONDE FRANCE HD
+http://127.0.0.1:59311/tv@h0m3/558
+#EXTINF:-1 radio="False" tvg-id="" group-title="Френски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png",CGTN Francais
+http://127.0.0.1:59311/tv@h0m3/577
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/1200px-ARD_Logo_2019.svg.png",Das Erste HD
+http://127.0.0.1:59311/tv@h0m3/714
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png",Arte HD
+http://127.0.0.1:59311/tv@h0m3/487
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1200px-3sat_2019.svg.png",3sat HD
+http://127.0.0.1:59311/tv@h0m3/488
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/a/a4/Comedy_Central_%282018-.n.v.%29.png/revision/latest?cb=20190615203101",Comedy Central AT
+http://127.0.0.1:59311/tv@h0m3/489
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/1239px-Kabel_eins_Logo_08.svg.png",Kabel Eins HD
+http://127.0.0.1:59311/tv@h0m3/515
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo.png",KiKA HD
+http://127.0.0.1:59311/tv@h0m3/520
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/744px-N-tv-Logo.svg.png",n-tv HD
+http://127.0.0.1:59311/tv@h0m3/525
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png",WELT HD
+http://127.0.0.1:59311/tv@h0m3/526
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bc/ProSieben_%282015-.n.v.%29.png/revision/latest?cb=20180211073722",PRO7 HD
+http://127.0.0.1:59311/tv@h0m3/533
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RiC_Logo_2014.png/1200px-RiC_Logo_2014.png",RiC
+http://127.0.0.1:59311/tv@h0m3/539
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png",RTL HD
+http://127.0.0.1:59311/tv@h0m3/541
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/3e/RTL_Zwei_%282019-.n.v.%29.png/revision/latest?cb=20191007175608",RTL2 HD
+http://127.0.0.1:59311/tv@h0m3/542
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/SAT.1_logo_2016.png/190px-SAT.1_logo_2016.png",Sat.1 HD
+http://127.0.0.1:59311/tv@h0m3/545
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/e/e9/Superrtl.png/revision/latest?cb=20190523190700",SUPER RTL HD
+http://127.0.0.1:59311/tv@h0m3/550
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/VOX.svg/1280px-VOX.svg.png",VOX HD
+http://127.0.0.1:59311/tv@h0m3/564
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png",ZDF HD
+http://127.0.0.1:59311/tv@h0m3/567
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ZDFneo_2017.svg/1280px-ZDFneo_2017.svg.png",ZDF Neo HD
+http://127.0.0.1:59311/tv@h0m3/568
+#EXTINF:-1 radio="False" tvg-id="" group-title="Немски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1280px-Sixx_Logo.svg.png",SIXX HD
+http://127.0.0.1:59311/tv@h0m3/580
+#EXTINF:-1 radio="False" tvg-id="" group-title="Португалски" tvg-logo="https://pluspng.com/img-png/rtp-logo-png-rtp-international-followed-last-week-introducing-a-new-logo-with-a-stylized-version-of-the-portuguese-flag-1000.png",RTP Int.
+http://127.0.0.1:59311/tv@h0m3/544
+#EXTINF:-1 radio="False" tvg-id="" group-title="Македонски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_of_the_Macedonian_Television_2012.svg/1200px-Logo_of_the_Macedonian_Television_2012.svg.png",MRT1 HD
+http://127.0.0.1:59311/tv@h0m3/522
+#EXTINF:-1 radio="False" tvg-id="" group-title="Испански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1048px-Telecinco.svg.png",Telecinco HD
+http://127.0.0.1:59311/tv@h0m3/503
+#EXTINF:-1 radio="False" tvg-id="" group-title="Испански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png",TVE
+http://127.0.0.1:59311/tv@h0m3/559
+#EXTINF:-1 radio="False" tvg-id="" group-title="Испански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",Canal 24 Horas
+http://127.0.0.1:59311/tv@h0m3/576
+#EXTINF:-1 radio="False" tvg-id="" group-title="Италиански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1 HD
+http://127.0.0.1:59311/tv@h0m3/535
+#EXTINF:-1 radio="False" tvg-id="" group-title="Италиански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",Rai 2 HD
+http://127.0.0.1:59311/tv@h0m3/536
+#EXTINF:-1 radio="False" tvg-id="" group-title="Италиански" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/9/99/Rai_3_%282016-.n.v.%29.png/revision/latest?cb=20180319054915",Rai 3 HD
+http://127.0.0.1:59311/tv@h0m3/537
+#EXTINF:-1 radio="False" tvg-id="" group-title="Италиански" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png",Rai News 24 HD
+http://127.0.0.1:59311/tv@h0m3/538
+#EXTINF:-1 radio="False" tvg-id="" group-title="Италиански" tvg-logo="https://lh3.googleusercontent.com/proxy/M84vW0U1EMqw-ukOHhXnRGdmMAuTrpyzValQE9K54o_VeIO90Yo5RD1mi7E-kfoklFlSCTQXKQB5e1TbhDyImXnGaru6USUHpiDLF8qVLCvyQLo",Italian Fishing TV
+http://127.0.0.1:59311/tv@h0m3/502
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_TVR_1_%282004%29.svg/1280px-Logo_TVR_1_%282004%29.svg.png",TVR1
+http://127.0.0.1:59311/tv@h0m3/560
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_TVR_2_%282004%29.svg/1280px-Logo_TVR_2_%282004%29.svg.png",TVR2
+http://127.0.0.1:59311/tv@h0m3/561
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_TVR_3_%282017%29.svg/1280px-Logo_TVR_3_%282017%29.svg.png",TVR3
+http://127.0.0.1:59311/tv@h0m3/562
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_TVR_Interna%C8%9Bional_%282004%29.svg/1200px-Logo_TVR_Interna%C8%9Bional_%282004%29.svg.png",TVRi
+http://127.0.0.1:59311/tv@h0m3/563
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/revision/latest?cb=20190828220916",PRO TV HD
+http://127.0.0.1:59311/tv@h0m3/504
+#EXTINF:-1 radio="False" tvg-id="" group-title="Румънски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diva_tv.png",DIVA
+http://127.0.0.1:59311/tv@h0m3/505
+#EXTINF:-1 radio="False" tvg-id="" group-title="Арменски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ArmeniaTV-Logo.svg/320px-ArmeniaTV-Logo.svg.png",Armenia TV
+http://127.0.0.1:59311/tv@h0m3/506
+#EXTINF:-1 radio="False" tvg-id="" group-title="Арменски" tvg-logo="https://image.winudf.com/v2/image1/YW0udHYxX2ljb25fMTU0OTE5MjYyMl8wMTE/icon.png?w=170&fakeurl=1",Armenia 1
+http://127.0.0.1:59311/tv@h0m3/507
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Logo_PRVA_2015.png",PRVA HD
+http://127.0.0.1:59311/tv@h0m3/534
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://www.ewsat.com/img/PINK_PLUS.png",Pink Plus
+http://127.0.0.1:59311/tv@h0m3/508
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://i.dlpng.com/static/png/6447328_preview.png",BN Sat
+http://127.0.0.1:59311/tv@h0m3/509
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://kliktv.rs/channels/kcn_1.png",KCN Kopernikus 1
+http://127.0.0.1:59311/tv@h0m3/518
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://kliktv.rs/channels/kcn_3.png",KCN Svet 3
+http://127.0.0.1:59311/tv@h0m3/519
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/9398e2a2881c317fed8e876f54252fba.png/revision/latest/scale-to-width-down/340?cb=20200517201537",Kitchen TV HD
+http://127.0.0.1:59311/tv@h0m3/521
+#EXTINF:-1 radio="False" tvg-id="" group-title="Сръбски" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Logo_of_OTV_Valentino.png",OTV Valentino
+http://127.0.0.1:59311/tv@h0m3/530
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/ATV_HD.png",ATV HD
+http://127.0.0.1:59311/tv@h0m3/510
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://www.flipconnect.com.au/wp-content/uploads/2017/12/Euro-D.png",EURO D
+http://127.0.0.1:59311/tv@h0m3/511
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png",STAR TV HD
+http://127.0.0.1:59311/tv@h0m3/512
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png",KANAL D HD
+http://127.0.0.1:59311/tv@h0m3/516
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://img2.pngio.com/filelogo-of-show-tvpng-33711-png-images-pngio-logo-show-png-478_474.png",SHOW HD
+http://127.0.0.1:59311/tv@h0m3/547
+#EXTINF:-1 radio="False" tvg-id="" group-title="Турски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png",TRT TURK HD
+http://127.0.0.1:59311/tv@h0m3/554
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/avtoradio2.png",Avtoradio
+http://127.0.0.1:59311/tv@h0m3/595
+#EXTINF:-1 radio="False" tvg-id="BGRadio" group-title="Радио" tvg-logo="http://logos.kodibg.org/bgradio.png",BG Radio
+http://127.0.0.1:59311/tv@h0m3/596
+#EXTINF:-1 radio="False" tvg-id="BNRHorizont" group-title="Радио" tvg-logo="https://logos.kodibg.org/bnrhorizont.png",BNR Horizont
+http://127.0.0.1:59311/tv@h0m3/597
+#EXTINF:-1 radio="False" tvg-id="BNRHristoBotev" group-title="Радио" tvg-logo="https://logos.kodibg.org/bnrhristobotev.png",BNR Hristo Botev
+http://127.0.0.1:59311/tv@h0m3/598
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/tv/images/bgonair-new5.png",Radio Bulgaria On Air
+http://127.0.0.1:59311/tv@h0m3/599
+#EXTINF:-1 radio="False" tvg-id="ClassicFM" group-title="Радио" tvg-logo="https://logos.kodibg.org/classicfm.png",Classic FM
+http://127.0.0.1:59311/tv@h0m3/600
+#EXTINF:-1 radio="False" tvg-id="DarikRadioTV" group-title="Радио" tvg-logo="https://logos.kodibg.org/darikradiotv.png",Darik Radio
+http://127.0.0.1:59311/tv@h0m3/601
+#EXTINF:-1 radio="False" tvg-id="FMPlus" group-title="Радио" tvg-logo="https://logos.kodibg.org/fmplus.png",FM+
+http://127.0.0.1:59311/tv@h0m3/602
+#EXTINF:-1 radio="False" tvg-id="JazzFM" group-title="Радио" tvg-logo="https://logos.kodibg.org/jazzfm.png",Jazz FM
+http://127.0.0.1:59311/tv@h0m3/603
+#EXTINF:-1 radio="False" tvg-id="MagicFM" group-title="Радио" tvg-logo="https://logos.kodibg.org/magicfm.png",MAGIC FM
+http://127.0.0.1:59311/tv@h0m3/604
+#EXTINF:-1 radio="False" tvg-id="Radio1" group-title="Радио" tvg-logo="https://logos.kodibg.org/radio1.png",Radio 1
+http://127.0.0.1:59311/tv@h0m3/605
+#EXTINF:-1 radio="False" tvg-id="Radio1Rock" group-title="Радио" tvg-logo="https://logos.kodibg.org/radio1rock.png",Radio 1 Rock
+http://127.0.0.1:59311/tv@h0m3/606
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/1/sofia_snimki/city3.gif",Radio CITY
+http://127.0.0.1:59311/tv@h0m3/607
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/1/sofia_snimki/focus.gif",Radio Focus
+http://127.0.0.1:59311/tv@h0m3/608
+#EXTINF:-1 radio="False" tvg-id="RadioFresh" group-title="Радио" tvg-logo="https://logos.kodibg.org/radiofresh.png",Radio Fresh
+http://127.0.0.1:59311/tv@h0m3/609
+#EXTINF:-1 radio="False" tvg-id="NJoy" group-title="Радио" tvg-logo="https://logos.kodibg.org/njoy.png",Radio N-JOY
+http://127.0.0.1:59311/tv@h0m3/610
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/btv.png",bTV Radio
+http://127.0.0.1:59311/tv@h0m3/611
+#EXTINF:-1 radio="False" tvg-id="RadioNova" group-title="Радио" tvg-logo="https://logos.kodibg.org/radionova.png",Radio Nova
+http://127.0.0.1:59311/tv@h0m3/612
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/nova-news.png",Radio Nova News
+http://127.0.0.1:59311/tv@h0m3/613
+#EXTINF:-1 radio="False" tvg-id="RadioENERGY" group-title="Радио" tvg-logo="http://logos.kodibg.org/energy.png",Radio NRJ
+http://127.0.0.1:59311/tv@h0m3/614
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/payner.png",Radio Payner
+http://127.0.0.1:59311/tv@h0m3/615
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/bnr_images/bnr_radio-sofia.png",Radio Sofia
+http://127.0.0.1:59311/tv@h0m3/616
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/news2011/images/thevoice.jpg",Radio The Voice
+http://127.0.0.1:59311/tv@h0m3/617
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/veronika.gif",Radio Veronika
+http://127.0.0.1:59311/tv@h0m3/618
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/veselina5.png",Radio Veselina
+http://127.0.0.1:59311/tv@h0m3/619
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://www.predavatel.com/bg/radio/vitosha4.png",Radio Vitosha
+http://127.0.0.1:59311/tv@h0m3/620
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://sweetradio.online/wp-content/uploads/2018/10/sweet-1a-chisto.png",Sweet Radio
+http://127.0.0.1:59311/tv@h0m3/621
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/blogo/300/300_1497169907.png",Tvoeto Radio
+http://127.0.0.1:59311/tv@h0m3/622
+#EXTINF:-1 radio="False" tvg-id="" group-title="Радио" tvg-logo="https://logos.kodibg.org/zrock.png",Z-Rock
+http://127.0.0.1:59311/tv@h0m3/623
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/Eroxxx_HD_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20171210224500",ERO XXX HD
+http://127.0.0.1:59311/tv@h0m3/624
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://pbs.twimg.com/media/Dv2Exi3VsAEfqkz.png",PENTHOUSE GOLD HD
+http://127.0.0.1:59311/tv@h0m3/625
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Penthouse_Quickies.svg/revision/latest/scale-to-width-down/340?cb=20191115143745",PENTHOUSE QUICKIES HD
+http://127.0.0.1:59311/tv@h0m3/626
+#EXTINF:-1 radio="False" tvg-id="DorcelTVEurope" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/dorceltv.png",Dorcel X HD
+http://127.0.0.1:59311/tv@h0m3/627
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://lh3.googleusercontent.com/proxy/0O8RPC63jpq5vTI2bbUUa22Xoi4xCnJsED15JTld9XWA67MWWDJclplt-7Fq4AsIUf-hgbvRt3apViEwDviovxEE9G-68SOw5D7sgVgExgY54VkFDr-W7iQqxqsHpRja0OP8zqduVCGrUN7yZ1RI",Dorcel XXX HD
+http://127.0.0.1:59311/tv@h0m3/628
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="hhttps://www.pngkit.com/png/full/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png",Vivid Red HD
+http://127.0.0.1:59311/tv@h0m3/632
+#EXTINF:-1 radio="False" tvg-id="PrivateTVEurope" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/privatetv.png",Private HD
+http://127.0.0.1:59311/tv@h0m3/633
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png/revision/latest/scale-to-width-down/340?cb=20191022114734",Babes TV HD
+http://127.0.0.1:59311/tv@h0m3/640
+#EXTINF:-1 radio="False" tvg-id="Redlight" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png/revision/latest?cb=20180312101837",Redlight HD
+http://127.0.0.1:59311/tv@h0m3/629
+#EXTINF:-1 radio="False" tvg-id="Redlight" group-title="За възрастни" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png",Hustler HD
+http://127.0.0.1:59311/tv@h0m3/630
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://satsis.ru/uploads/posts/2018-05/1526986038_www.satsis.info__evil-angel-tv.png",Evil Angel HD
+http://127.0.0.1:59311/tv@h0m3/631
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://img16.lostpic.net/2019/12/12/0aa1ba29997c7437a58fadda687a3b43.png",Extasy 4K
+http://127.0.0.1:59311/tv@h0m3/678
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus HD
+http://127.0.0.1:59311/tv@h0m3/651
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",XYMAX HD
+http://127.0.0.1:59311/tv@h0m3/653
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",XYMIX HD
+http://127.0.0.1:59311/tv@h0m3/652
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus HD +2
+http://127.0.0.1:59311/tv@h0m3/654
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",XYMAX HD +2
+http://127.0.0.1:59311/tv@h0m3/655
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",XYMIX HD +2
+http://127.0.0.1:59311/tv@h0m3/656
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",Erotic 3D
+http://127.0.0.1:59311/tv@h0m3/697
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/XXL.png",XXL
+http://127.0.0.1:59311/tv@h0m3/634
+#EXTINF:-1 radio="False" tvg-id="BrazzersTVEurope" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/brazzerstveurope.png",Brazzers TV
+http://127.0.0.1:59311/tv@h0m3/635
+#EXTINF:-1 radio="False" tvg-id="HustlerTV" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/hustlertv.png",Hustler TV
+http://127.0.0.1:59311/tv@h0m3/636
+#EXTINF:-1 radio="False" tvg-id="DUSKTV" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/dusktv.png",Dusk
+http://127.0.0.1:59311/tv@h0m3/637
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.electrocrisan.com/8201-large_default/tarjeta-xxx-dorcel-tv-vivid-tv-europe-hustler-tv-astra-19e.jpg",Vivid TV
+http://127.0.0.1:59311/tv@h0m3/638
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/a/a1/SuperOne_%282020-.n.v.%29.png/revision/latest?cb=20200314090417",SuperOne
+http://127.0.0.1:59311/tv@h0m3/639
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Reality_Kings_TV.svg/revision/latest/scale-to-width-down/340?cb=20191119152750",Reality Kings
+http://127.0.0.1:59311/tv@h0m3/641
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.celectcom.net/wp-content/uploads/2018/06/channel-bangu.png",BangU
+http://127.0.0.1:59311/tv@h0m3/642
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/passionxxx.png",PASSION XXX
+http://127.0.0.1:59311/tv@h0m3/643
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/passionxxx.png",PASSION XXX 2
+http://127.0.0.1:59311/tv@h0m3/644
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/passionxxx.png",PASSION XXX 3
+http://127.0.0.1:59311/tv@h0m3/645
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://pornhaggle.com/wp-content/uploads/2019/04/pinko-club.png",PINKO CLUB
+http://127.0.0.1:59311/tv@h0m3/646
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://pornhaggle.com/wp-content/uploads/2019/04/pinko-club.png",PINKO CLUB 2
+http://127.0.0.1:59311/tv@h0m3/647
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/centoxcentook.png",CENTOxCENTO
+http://127.0.0.1:59311/tv@h0m3/648
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png",HOT
+http://127.0.0.1:59311/tv@h0m3/649
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://i.pinimg.com/originals/8f/67/62/8f67620e90fba5d5ae19976244553828.png",Venus
+http://127.0.0.1:59311/tv@h0m3/650
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus +1
+http://127.0.0.1:59311/tv@h0m3/657
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus +6
+http://127.0.0.1:59311/tv@h0m3/660
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus +12
+http://127.0.0.1:59311/tv@h0m3/658
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png",XYPlus +24
+http://127.0.0.1:59311/tv@h0m3/659
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 1
+http://127.0.0.1:59311/tv@h0m3/664
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 2
+http://127.0.0.1:59311/tv@h0m3/709
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 3
+http://127.0.0.1:59311/tv@h0m3/710
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 4
+http://127.0.0.1:59311/tv@h0m3/711
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 5
+http://127.0.0.1:59311/tv@h0m3/712
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",ALBA XXX 6
+http://127.0.0.1:59311/tv@h0m3/713
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",HOT 1
+http://127.0.0.1:59311/tv@h0m3/667
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",HOT 2
+http://127.0.0.1:59311/tv@h0m3/698
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",HOT 3
+http://127.0.0.1:59311/tv@h0m3/699
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="",HOT 4
+http://127.0.0.1:59311/tv@h0m3/700
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://kliktv.rs/channels/erotic.png",Pink Erotic
+http://127.0.0.1:59311/tv@h0m3/668
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic2-logo.png",Pink Erotic 2
+http://127.0.0.1:59311/tv@h0m3/669
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic3.png",Pink Erotic 3
+http://127.0.0.1:59311/tv@h0m3/670
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic4.png",Pink Erotic 4
+http://127.0.0.1:59311/tv@h0m3/671
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic4.png",Pink Erotic 5
+http://127.0.0.1:59311/tv@h0m3/672
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink_erotic_5_logo.png",Pink Erotic 6
+http://127.0.0.1:59311/tv@h0m3/673
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink_erotic_6_logo.png",Pink Erotic 7
+http://127.0.0.1:59311/tv@h0m3/674
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink_erotic_7_logo.png",Pink Erotic 8
+http://127.0.0.1:59311/tv@h0m3/675
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://lh3.googleusercontent.com/proxy/CrCG48IO8H--Wsdg2v3H5PKg_x2AVvK109Y6xt573SmJjOJILdHlX2V9yF8S_BeMkeN3SnOsUtIBXnEAQpzSY-fS1e5O1lEUhsxPLihn3RvJUH2vjIk1UeQZJg7Lf4EgDRY",X-Desire
+http://127.0.0.1:59311/tv@h0m3/676
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg",X-Bunga Bunga
+http://127.0.0.1:59311/tv@h0m3/677
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://www.flexi.sk/upload/image/58db6ccea6140-1490775246.png",LEO TV (00h)
+http://127.0.0.1:59311/tv@h0m3/715
+#EXTINF:-1 radio="False" tvg-id="PlayboyTVEurope" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/playboytv.png",Playboy TV
+http://127.0.0.1:59311/tv@h0m3/661
+#EXTINF:-1 radio="False" tvg-id="EroxHD" group-title="За възрастни" tvg-logo="https://logos.kodibg.org/eroxhd.png",ERO X
+http://127.0.0.1:59311/tv@h0m3/662
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://i.imgur.com/fZzRe0F.jpg",Pure Babes TV
+http://127.0.0.1:59311/tv@h0m3/663
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",Blue Hustler
+http://127.0.0.1:59311/tv@h0m3/665
+#EXTINF:-1 radio="False" tvg-id="" group-title="За възрастни" tvg-logo="https://static.24h.tv/landing/castle/img/tv-package/NuartTV_4w.png",Nuart TV
+http://127.0.0.1:59311/tv@h0m3/666
+#EXTINF:-1 radio="False" tvg-id="EnglishClubTV" group-title="Развлекателни" tvg-logo="https://logos.kodibg.org/englishclubtv.png",English Club
+http://127.0.0.1:59311/tv@h0m3/448
+#EXTINF:-1 radio="False" tvg-id="Nova" group-title="Национални" tvg-logo="http://logos.kodibg.org/novatv.png",NOVA HD [Backup]
+http://127.0.0.1:59311/tv@h0m3/473
